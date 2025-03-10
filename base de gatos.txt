@@ -1,0 +1,282 @@
+create database prueba1;
+use prueba1;
+
+create table organizacion (
+    id_organizacion int auto_increment primary key,
+    nombre varchar(30) not null,
+    lenguaje varchar(20) not null,
+    tipo varchar(30) not null,
+    sitio_web varchar(30),
+    estado varchar(30)
+);
+
+create table cargo (
+    id_cargo int auto_increment primary key,
+    titulo varchar(30) not null,
+    descripcion varchar(200) not null
+);
+
+create table usuario (
+    id_usuario int auto_increment primary key,
+    id_organizacion int,
+    id_cargo int,
+    nombre varchar(30) not null, 
+    telefono varchar(30) unique, 
+    correo varchar(30) unique,
+    foreign key (id_organizacion) references organizacion(id_organizacion),
+    foreign key (id_cargo) references cargo(id_cargo)
+);
+
+create table tipo_usuario (
+    id_tipo_usuario int auto_increment primary key,
+    nombre varchar(20) not null
+);
+
+create table usuario_tipo (
+    id_usuario int,
+    id_tipo_usuario int, 
+    primary key (id_usuario, id_tipo_usuario),
+    foreign key (id_usuario) references usuario(id_usuario),
+    foreign key (id_tipo_usuario) references tipo_usuario(id_tipo_usuario)
+);
+
+create table proyecto (
+    id_proyecto int auto_increment primary key,
+    id_organizacion int,
+    nombre varchar(30) not null,
+    estado varchar(20) not null,
+    descripcion varchar(200) not null,
+    recursos varchar(200) not null,
+    participantes varchar(200) not null,
+    foreign key (id_organizacion) references organizacion(id_organizacion)
+);
+
+create table continente (
+    codigo_continente int auto_increment primary key,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    telefono varchar(20)
+);
+
+create table pais (
+    codigo_pais int auto_increment primary key,
+    codigo_continente int,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    foreign key (codigo_continente) references continente(codigo_continente)
+);
+
+create table estado (
+    codigo_estado int auto_increment primary key,
+    codigo_pais int,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    foreign key (codigo_pais) references pais(codigo_pais)
+);
+
+create table ciudad (
+    codigo_ciudad int auto_increment primary key,
+    codigo_estado int,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    foreign key (codigo_estado) references estado(codigo_estado)
+);
+
+create table poblacion (
+    id_poblacion int auto_increment primary key,
+    edad int not null, -- a decidir
+    codigo_ciudad int,
+    id_proyecto int,
+    foreign key (codigo_ciudad) references ciudad(codigo_ciudad),
+    foreign key (id_proyecto) references proyecto(id_proyecto)
+);
+
+create table actividad (
+    id_actividad int auto_increment primary key,
+    descripcion varchar(200) not null,
+    id_organizacion int,
+    id_proyecto int,
+    id_poblacion int,
+    foreign key (id_organizacion) references organizacion(id_organizacion),
+    foreign key (id_proyecto) references proyecto(id_proyecto),
+    foreign key (id_poblacion) references poblacion(id_poblacion)
+);
+
+create table telefono (
+    telefono varchar(20) primary key,
+    prefijo varchar(10),
+    id_usuario int,
+    foreign key (id_usuario) references usuario(id_usuario)
+);
+
+create table correo (
+    correo varchar(50) primary key,
+    id_usuario int,
+    dominio varchar(50),
+    foreign key (id_usuario) references usuario(id_usuario)
+);
+
+create table datos_fiscales (
+    rfc varchar(20) primary key,
+    id_organizacion int,
+    regimen varchar(50),
+    foreign key (id_organizacion) references organizacion(id_organizacion)
+);
+
+create table tipo_apoyo (
+    id_tipo_apoyo int auto_increment primary key,
+    proveedor varchar(50),
+    cantidad decimal(10,2)
+);
+
+create table recursos_financieros (
+    id_recurso int auto_increment primary key,
+create database prueba1;
+use prueba1;
+
+create table organizacion (
+    id_organizacion int auto_increment primary key,
+    nombre varchar(30) not null,
+    lenguaje varchar(20) not null,
+    tipo varchar(30) not null,
+    sitio_web varchar(30),
+    estado varchar(30)
+);
+
+create table cargo (
+    id_cargo int auto_increment primary key,
+    titulo varchar(30) not null,
+    descripcion varchar(200) not null
+);
+
+create table usuario (
+    id_usuario int auto_increment primary key,
+    id_organizacion int,
+    id_cargo int,
+    nombre varchar(30) not null, 
+    telefono varchar(30) unique, 
+    correo varchar(30) unique,
+    foreign key (id_organizacion) references organizacion(id_organizacion),
+    foreign key (id_cargo) references cargo(id_cargo)
+);
+
+create table tipo_usuario (
+    id_tipo_usuario int auto_increment primary key,
+    nombre varchar(20) not null
+);
+
+create table usuario_tipo (
+    id_usuario int,
+    id_tipo_usuario int, 
+    primary key (id_usuario, id_tipo_usuario),
+    foreign key (id_usuario) references usuario(id_usuario),
+    foreign key (id_tipo_usuario) references tipo_usuario(id_tipo_usuario)
+);
+
+create table proyecto (
+    id_proyecto int auto_increment primary key,
+    id_organizacion int,
+    nombre varchar(30) not null,
+    estado varchar(20) not null,
+    descripcion varchar(200) not null,
+    recursos varchar(200) not null,
+    participantes varchar(200) not null,
+    foreign key (id_organizacion) references organizacion(id_organizacion)
+);
+
+create table continente (
+    codigo_continente int auto_increment primary key,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    telefono varchar(20)
+);
+
+create table pais (
+    codigo_pais int auto_increment primary key,
+    codigo_continente int,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    foreign key (codigo_continente) references continente(codigo_continente)
+);
+
+create table estado (
+    codigo_estado int auto_increment primary key,
+    codigo_pais int,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    foreign key (codigo_pais) references pais(codigo_pais)
+);
+
+create table ciudad (
+    codigo_ciudad int auto_increment primary key,
+    codigo_estado int,
+    nombre varchar(50) not null,
+    area decimal(10,2),
+    poblacion int,
+    foreign key (codigo_estado) references estado(codigo_estado)
+);
+
+create table poblacion (
+    id_poblacion int auto_increment primary key,
+    edad int not null,
+    codigo_ciudad int,
+    id_proyecto int,
+    foreign key (codigo_ciudad) references ciudad(codigo_ciudad),
+    foreign key (id_proyecto) references proyecto(id_proyecto)
+);
+
+create table actividad (
+    id_actividad int auto_increment primary key,
+    descripcion varchar(200) not null,
+    id_organizacion int,
+    id_proyecto int,
+    id_poblacion int,
+    foreign key (id_organizacion) references organizacion(id_organizacion),
+    foreign key (id_proyecto) references proyecto(id_proyecto),
+    foreign key (id_poblacion) references poblacion(id_poblacion)
+);
+
+create table telefono (
+    telefono varchar(20) primary key,
+    prefijo varchar(10),
+    id_usuario int,
+    foreign key (id_usuario) references usuario(id_usuario)
+);
+
+create table correo (
+    correo varchar(50) primary key,
+    id_usuario int,
+    dominio varchar(50),
+    foreign key (id_usuario) references usuario(id_usuario)
+);
+
+create table datos_fiscales (
+    rfc varchar(20) primary key,
+    id_organizacion int,
+    regimen varchar(50),
+    foreign key (id_organizacion) references organizacion(id_organizacion)
+);
+
+create table tipo_apoyo (
+    id_tipo_apoyo int auto_increment primary key,
+    proveedor varchar(50),
+    cantidad decimal(10,2)
+);
+
+create table recursos_financieros (
+    id_recurso int auto_increment primary key,
+    presupuesto_solicitado decimal(15,2),
+    presupuesto_otorgado decimal(15,2),
+    id_organizacion int,
+    id_tipo_apoyo int,
+    foreign key (id_organizacion) references organizacion(id_organizacion),
+    foreign key (id_tipo_apoyo) references tipo_apoyo(id_tipo_apoyo)
+);
+
