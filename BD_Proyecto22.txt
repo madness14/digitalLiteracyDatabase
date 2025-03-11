@@ -1,3 +1,4 @@
+drop database if exists prueba1;
 CREATE DATABASE prueba1;
 USE prueba1;
 
@@ -90,7 +91,7 @@ CREATE TABLE Proyecto (
     Fondos_Solicitados DECIMAL(15,2),
     Fecha_Inicio DATE,
     Fecha_Fin DATE,
-    Encargado INT,
+    id_Encargado INT,
     FOREIGN KEY (ID_Organizacion) REFERENCES Organizacion(ID_Organizacion),
     FOREIGN KEY (Encargado) REFERENCES Usuario(ID_Usuario)
 );
@@ -106,14 +107,16 @@ CREATE TABLE Poblacion (
 
 CREATE TABLE Actividad (
     ID_Actividad INT PRIMARY KEY,
-    Descripcion TEXT,
+    Nombre varchar(50) not null unique,
+    Descripcion TEXT, --cambiar?
     ID_Organizacion INT,
     ID_Proyecto INT,
     ID_Poblacion INT,
+    ID_Costos INT,
     Fecha_Inicio DATE,
     Fecha_Fin DATE,
-    Costo DECIMAL(15,2),
     Responsable INT,
+    FOREIGN KEY (ID_Costos) REFERENCES Costos(ID_Costos)
     FOREIGN KEY (Responsable) REFERENCES Usuario(ID_Usuario),
     FOREIGN KEY (ID_Organizacion) REFERENCES Organizacion(ID_Organizacion),
     FOREIGN KEY (ID_Proyecto) REFERENCES Proyecto(ID_Proyecto),
@@ -141,11 +144,14 @@ CREATE TABLE Datos_Fiscales (
     FOREIGN KEY (ID_Organizacion) REFERENCES Organizacion(ID_Organizacion)
 );
 
-CREATE TABLE Tipo_Apoyo (
-    ID_Tipo_Apoyo INT PRIMARY KEY,
-    Proveedor VARCHAR(255),
-    Cantidad INT
-);
+create table Tipo_Apoyo (
+    ID_transaccion int primary key,
+    tipo_transaccion varchar(20) not null,
+    proveedor varchar(30) not null,
+    rfc varchar(20),
+    monto_otorgado decimal(15, 2) not null,
+    foreign key (rfc) references datos_fiscales(rfc)
+)
 
 CREATE TABLE Recursos_Financieros (
     ID_Recurso INT PRIMARY KEY,
@@ -153,7 +159,16 @@ CREATE TABLE Recursos_Financieros (
     Presupuesto_Otorgado DECIMAL(15,2),
     ID_Organizacion INT,
     Divisa VARCHAR(10),
-    ID_Tipo_Apoyo INT,
+    ID_transaccion INT,
     FOREIGN KEY (ID_Organizacion) REFERENCES Organizacion(ID_Organizacion),
-    FOREIGN KEY (ID_Tipo_Apoyo) REFERENCES Tipo_Apoyo(ID_Tipo_Apoyo)
+    FOREIGN KEY (ID_transaccion) REFERENCES Tipo_Apoyo(ID_transaccion)
+);
+
+CREATE TABLE Costos (
+    ID_Costos INT PRIMARY KEY not null,
+    Costo_RH DECIMAL(15,2) not null,
+    Costo_Material DECIMAL(15,2) not null,
+    Costo_Financiero DECIMAL(15,2) not null,
+    Costo_Total DECIMAL(15,2) not null, -- procedimiento a futuro 
+    FOREIGN KEY (ID_Costos) REFERENCES Actividad(ID_Costos)
 );
