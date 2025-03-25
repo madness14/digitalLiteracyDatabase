@@ -156,7 +156,7 @@ CREATE TABLE project_costs (
 
 CREATE TABLE project_activity (
     activity_id INT PRIMARY KEY,
-    activity_name VARCHAR(50) NOT NULL UNIQUE,
+    activity_name VARCHAR(50) NOT NULL,
     activity_description TEXT, 
     org_id INT,
     project_id INT,
