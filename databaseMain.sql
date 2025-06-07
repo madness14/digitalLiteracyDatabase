@@ -120,7 +120,7 @@ CREATE TABLE transactionResources (
 CREATE TABLE project (
   idProject INT PRIMARY KEY AUTO_INCREMENT,
   name VARCHAR(100),
-  operationStatus DECIMAL(4,2),
+  operationStatus DECIMAL(5,2),
   startDate DATE,
   endDate DATE,
   description TEXT,
