@@ -150,9 +150,8 @@ CREATE TABLE activityCosts (
   idCosts INT PRIMARY KEY AUTO_INCREMENT,
   humanResourcesCost DECIMAL(12,2),
   materialCost DECIMAL(12,2),
-  financialCost DECIMAL(12,2),
-  totalCost DECIMAL(12,2)
-);
+  financialCost DECIMAL(12,2)
+  );
 
 -- ACTIVITY
 CREATE TABLE activity (
