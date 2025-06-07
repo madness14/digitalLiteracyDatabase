@@ -1498,3 +1498,3002 @@ INSERT INTO project (idProject, name, operationStatus, startDate, endDate, descr
 INSERT INTO project (idProject, name, operationStatus, startDate, endDate, description, responsible) VALUES
 (9515, 'Open Literacy 4571', 37.63, '2017-08-01', '2018-03-28', 'Proyecto enfocado en promover la literacidad digital mediante open literacy 4571.', 5009);
 
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9564, 'Actividad 9564', 'Descripción de la actividad 9564', '2022-12-04', '2022-12-18', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9565, 'Actividad 9565', 'Descripción de la actividad 9565', '2011-05-12', '2011-06-04', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9566, 'Actividad 9566', 'Descripción de la actividad 9566', '2011-09-17', '2011-10-10', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9567, 'Actividad 9567', 'Descripción de la actividad 9567', '2019-01-27', '2019-02-03', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9568, 'Actividad 9568', 'Descripción de la actividad 9568', '2020-09-26', '2020-10-18', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9569, 'Actividad 9569', 'Descripción de la actividad 9569', '2020-08-25', '2020-10-22', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9570, 'Actividad 9570', 'Descripción de la actividad 9570', '2016-04-21', '2016-06-20', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9571, 'Actividad 9571', 'Descripción de la actividad 9571', '2022-01-20', '2022-03-02', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9572, 'Actividad 9572', 'Descripción de la actividad 9572', '2014-12-21', '2015-01-22', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9573, 'Actividad 9573', 'Descripción de la actividad 9573', '2021-06-20', '2021-07-04', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9574, 'Actividad 9574', 'Descripción de la actividad 9574', '2015-05-05', '2015-06-15', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9575, 'Actividad 9575', 'Descripción de la actividad 9575', '2012-03-16', '2012-05-07', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9576, 'Actividad 9576', 'Descripción de la actividad 9576', '2014-10-24', '2014-12-01', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9577, 'Actividad 9577', 'Descripción de la actividad 9577', '2014-05-06', '2014-05-17', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9578, 'Actividad 9578', 'Descripción de la actividad 9578', '2015-04-20', '2015-04-29', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9579, 'Actividad 9579', 'Descripción de la actividad 9579', '2015-10-22', '2015-12-12', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9580, 'Actividad 9580', 'Descripción de la actividad 9580', '2016-03-22', '2016-05-16', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9581, 'Actividad 9581', 'Descripción de la actividad 9581', '2011-10-24', '2011-11-12', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9582, 'Actividad 9582', 'Descripción de la actividad 9582', '2020-09-05', '2020-10-21', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9583, 'Actividad 9583', 'Descripción de la actividad 9583', '2011-04-27', '2011-06-02', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9584, 'Actividad 9584', 'Descripción de la actividad 9584', '2019-02-02', '2019-02-17', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9585, 'Actividad 9585', 'Descripción de la actividad 9585', '2020-07-27', '2020-08-14', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9586, 'Actividad 9586', 'Descripción de la actividad 9586', '2016-05-20', '2016-07-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9587, 'Actividad 9587', 'Descripción de la actividad 9587', '2020-07-05', '2020-07-15', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9588, 'Actividad 9588', 'Descripción de la actividad 9588', '2013-12-10', '2014-01-21', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9589, 'Actividad 9589', 'Descripción de la actividad 9589', '2022-01-22', '2022-03-06', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9590, 'Actividad 9590', 'Descripción de la actividad 9590', '2013-08-22', '2013-10-13', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9591, 'Actividad 9591', 'Descripción de la actividad 9591', '2011-04-09', '2011-04-21', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9592, 'Actividad 9592', 'Descripción de la actividad 9592', '2016-06-24', '2016-08-22', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9593, 'Actividad 9593', 'Descripción de la actividad 9593', '2013-05-12', '2013-06-24', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9594, 'Actividad 9594', 'Descripción de la actividad 9594', '2011-12-05', '2012-01-07', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9595, 'Actividad 9595', 'Descripción de la actividad 9595', '2010-02-07', '2010-04-03', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9596, 'Actividad 9596', 'Descripción de la actividad 9596', '2016-06-17', '2016-07-22', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9597, 'Actividad 9597', 'Descripción de la actividad 9597', '2012-05-01', '2012-05-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9598, 'Actividad 9598', 'Descripción de la actividad 9598', '2012-05-12', '2012-06-07', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9599, 'Actividad 9599', 'Descripción de la actividad 9599', '2020-03-14', '2020-03-26', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9600, 'Actividad 9600', 'Descripción de la actividad 9600', '2012-10-07', '2012-10-15', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9601, 'Actividad 9601', 'Descripción de la actividad 9601', '2011-03-22', '2011-04-10', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9602, 'Actividad 9602', 'Descripción de la actividad 9602', '2015-03-03', '2015-04-17', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9603, 'Actividad 9603', 'Descripción de la actividad 9603', '2019-05-10', '2019-07-09', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9604, 'Actividad 9604', 'Descripción de la actividad 9604', '2017-11-11', '2017-12-10', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9605, 'Actividad 9605', 'Descripción de la actividad 9605', '2021-05-23', '2021-07-21', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9606, 'Actividad 9606', 'Descripción de la actividad 9606', '2018-07-31', '2018-09-28', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9607, 'Actividad 9607', 'Descripción de la actividad 9607', '2020-10-07', '2020-11-15', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9608, 'Actividad 9608', 'Descripción de la actividad 9608', '2019-07-26', '2019-08-26', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9609, 'Actividad 9609', 'Descripción de la actividad 9609', '2013-09-10', '2013-10-13', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9610, 'Actividad 9610', 'Descripción de la actividad 9610', '2016-05-06', '2016-06-03', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9611, 'Actividad 9611', 'Descripción de la actividad 9611', '2021-07-29', '2021-08-11', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9612, 'Actividad 9612', 'Descripción de la actividad 9612', '2015-11-13', '2015-11-23', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9613, 'Actividad 9613', 'Descripción de la actividad 9613', '2022-02-07', '2022-02-18', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9614, 'Actividad 9614', 'Descripción de la actividad 9614', '2010-06-27', '2010-08-08', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9615, 'Actividad 9615', 'Descripción de la actividad 9615', '2021-09-30', '2021-10-17', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9616, 'Actividad 9616', 'Descripción de la actividad 9616', '2012-09-15', '2012-11-08', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9617, 'Actividad 9617', 'Descripción de la actividad 9617', '2012-03-26', '2012-04-18', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9618, 'Actividad 9618', 'Descripción de la actividad 9618', '2020-07-24', '2020-09-04', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9619, 'Actividad 9619', 'Descripción de la actividad 9619', '2020-04-22', '2020-05-31', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9620, 'Actividad 9620', 'Descripción de la actividad 9620', '2011-06-27', '2011-07-10', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9621, 'Actividad 9621', 'Descripción de la actividad 9621', '2017-08-23', '2017-10-15', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9622, 'Actividad 9622', 'Descripción de la actividad 9622', '2015-03-31', '2015-04-28', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9623, 'Actividad 9623', 'Descripción de la actividad 9623', '2020-11-20', '2020-11-25', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9624, 'Actividad 9624', 'Descripción de la actividad 9624', '2013-03-07', '2013-04-29', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9625, 'Actividad 9625', 'Descripción de la actividad 9625', '2015-06-13', '2015-07-28', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9626, 'Actividad 9626', 'Descripción de la actividad 9626', '2022-03-25', '2022-05-16', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9627, 'Actividad 9627', 'Descripción de la actividad 9627', '2018-07-17', '2018-08-26', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9628, 'Actividad 9628', 'Descripción de la actividad 9628', '2015-09-26', '2015-10-08', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9629, 'Actividad 9629', 'Descripción de la actividad 9629', '2020-07-20', '2020-09-13', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9630, 'Actividad 9630', 'Descripción de la actividad 9630', '2014-07-02', '2014-08-31', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9631, 'Actividad 9631', 'Descripción de la actividad 9631', '2011-06-24', '2011-07-25', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9632, 'Actividad 9632', 'Descripción de la actividad 9632', '2017-01-02', '2017-01-13', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9633, 'Actividad 9633', 'Descripción de la actividad 9633', '2022-02-21', '2022-03-04', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9634, 'Actividad 9634', 'Descripción de la actividad 9634', '2021-02-05', '2021-03-02', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9635, 'Actividad 9635', 'Descripción de la actividad 9635', '2012-09-26', '2012-10-20', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9636, 'Actividad 9636', 'Descripción de la actividad 9636', '2020-03-25', '2020-05-11', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9637, 'Actividad 9637', 'Descripción de la actividad 9637', '2022-05-24', '2022-06-02', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9638, 'Actividad 9638', 'Descripción de la actividad 9638', '2014-05-03', '2014-06-23', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9639, 'Actividad 9639', 'Descripción de la actividad 9639', '2011-05-14', '2011-06-22', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9640, 'Actividad 9640', 'Descripción de la actividad 9640', '2011-11-29', '2011-12-28', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9641, 'Actividad 9641', 'Descripción de la actividad 9641', '2017-09-04', '2017-10-19', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9642, 'Actividad 9642', 'Descripción de la actividad 9642', '2010-08-02', '2010-08-08', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9643, 'Actividad 9643', 'Descripción de la actividad 9643', '2021-03-15', '2021-05-11', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9644, 'Actividad 9644', 'Descripción de la actividad 9644', '2017-09-19', '2017-10-27', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9645, 'Actividad 9645', 'Descripción de la actividad 9645', '2014-07-16', '2014-09-12', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9646, 'Actividad 9646', 'Descripción de la actividad 9646', '2021-08-15', '2021-08-29', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9647, 'Actividad 9647', 'Descripción de la actividad 9647', '2021-01-31', '2021-03-08', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9648, 'Actividad 9648', 'Descripción de la actividad 9648', '2018-06-08', '2018-06-26', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9649, 'Actividad 9649', 'Descripción de la actividad 9649', '2021-09-18', '2021-10-14', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9650, 'Actividad 9650', 'Descripción de la actividad 9650', '2012-10-20', '2012-11-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9651, 'Actividad 9651', 'Descripción de la actividad 9651', '2012-11-24', '2012-12-18', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9652, 'Actividad 9652', 'Descripción de la actividad 9652', '2012-08-30', '2012-10-29', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9653, 'Actividad 9653', 'Descripción de la actividad 9653', '2016-09-24', '2016-11-10', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9654, 'Actividad 9654', 'Descripción de la actividad 9654', '2013-06-29', '2013-08-16', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9655, 'Actividad 9655', 'Descripción de la actividad 9655', '2010-12-01', '2010-12-15', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9656, 'Actividad 9656', 'Descripción de la actividad 9656', '2018-06-02', '2018-07-06', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9657, 'Actividad 9657', 'Descripción de la actividad 9657', '2012-08-24', '2012-09-19', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9658, 'Actividad 9658', 'Descripción de la actividad 9658', '2010-04-21', '2010-06-06', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9659, 'Actividad 9659', 'Descripción de la actividad 9659', '2013-08-04', '2013-09-26', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9660, 'Actividad 9660', 'Descripción de la actividad 9660', '2014-05-15', '2014-07-07', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9661, 'Actividad 9661', 'Descripción de la actividad 9661', '2012-06-22', '2012-08-08', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9662, 'Actividad 9662', 'Descripción de la actividad 9662', '2017-08-01', '2017-09-26', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9663, 'Actividad 9663', 'Descripción de la actividad 9663', '2010-12-19', '2011-02-17', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9664, 'Actividad 9664', 'Descripción de la actividad 9664', '2022-04-27', '2022-06-26', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9665, 'Actividad 9665', 'Descripción de la actividad 9665', '2019-04-13', '2019-05-24', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9666, 'Actividad 9666', 'Descripción de la actividad 9666', '2011-07-03', '2011-08-23', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9667, 'Actividad 9667', 'Descripción de la actividad 9667', '2011-05-26', '2011-07-25', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9668, 'Actividad 9668', 'Descripción de la actividad 9668', '2015-09-13', '2015-10-21', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9669, 'Actividad 9669', 'Descripción de la actividad 9669', '2017-03-11', '2017-05-09', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9670, 'Actividad 9670', 'Descripción de la actividad 9670', '2016-01-07', '2016-02-28', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9671, 'Actividad 9671', 'Descripción de la actividad 9671', '2021-04-18', '2021-04-24', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9672, 'Actividad 9672', 'Descripción de la actividad 9672', '2010-05-25', '2010-07-06', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9673, 'Actividad 9673', 'Descripción de la actividad 9673', '2016-09-16', '2016-09-30', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9674, 'Actividad 9674', 'Descripción de la actividad 9674', '2019-06-18', '2019-07-09', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9675, 'Actividad 9675', 'Descripción de la actividad 9675', '2012-03-25', '2012-05-22', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9676, 'Actividad 9676', 'Descripción de la actividad 9676', '2018-01-13', '2018-02-09', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9677, 'Actividad 9677', 'Descripción de la actividad 9677', '2021-02-20', '2021-03-14', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9678, 'Actividad 9678', 'Descripción de la actividad 9678', '2010-03-04', '2010-04-27', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9679, 'Actividad 9679', 'Descripción de la actividad 9679', '2014-05-09', '2014-05-27', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9680, 'Actividad 9680', 'Descripción de la actividad 9680', '2016-05-27', '2016-06-09', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9681, 'Actividad 9681', 'Descripción de la actividad 9681', '2019-12-28', '2020-01-15', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9682, 'Actividad 9682', 'Descripción de la actividad 9682', '2021-01-16', '2021-01-22', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9683, 'Actividad 9683', 'Descripción de la actividad 9683', '2010-01-08', '2010-02-17', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9684, 'Actividad 9684', 'Descripción de la actividad 9684', '2015-12-31', '2016-01-10', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9685, 'Actividad 9685', 'Descripción de la actividad 9685', '2021-02-09', '2021-03-28', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9686, 'Actividad 9686', 'Descripción de la actividad 9686', '2021-07-24', '2021-08-13', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9687, 'Actividad 9687', 'Descripción de la actividad 9687', '2017-04-21', '2017-05-22', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9688, 'Actividad 9688', 'Descripción de la actividad 9688', '2022-05-20', '2022-06-17', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9689, 'Actividad 9689', 'Descripción de la actividad 9689', '2018-05-28', '2018-07-23', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9690, 'Actividad 9690', 'Descripción de la actividad 9690', '2010-07-24', '2010-09-22', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9691, 'Actividad 9691', 'Descripción de la actividad 9691', '2022-07-11', '2022-09-07', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9692, 'Actividad 9692', 'Descripción de la actividad 9692', '2020-11-07', '2020-11-18', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9693, 'Actividad 9693', 'Descripción de la actividad 9693', '2010-03-05', '2010-04-05', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9694, 'Actividad 9694', 'Descripción de la actividad 9694', '2014-02-14', '2014-03-22', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9695, 'Actividad 9695', 'Descripción de la actividad 9695', '2018-10-07', '2018-10-29', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9696, 'Actividad 9696', 'Descripción de la actividad 9696', '2010-01-12', '2010-02-16', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9697, 'Actividad 9697', 'Descripción de la actividad 9697', '2014-12-31', '2015-02-18', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9698, 'Actividad 9698', 'Descripción de la actividad 9698', '2016-02-13', '2016-03-20', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9699, 'Actividad 9699', 'Descripción de la actividad 9699', '2021-12-04', '2022-01-01', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9700, 'Actividad 9700', 'Descripción de la actividad 9700', '2018-11-01', '2018-12-23', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9701, 'Actividad 9701', 'Descripción de la actividad 9701', '2020-02-27', '2020-03-05', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9702, 'Actividad 9702', 'Descripción de la actividad 9702', '2011-03-10', '2011-04-11', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9703, 'Actividad 9703', 'Descripción de la actividad 9703', '2013-12-22', '2014-01-13', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9704, 'Actividad 9704', 'Descripción de la actividad 9704', '2011-01-08', '2011-02-23', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9705, 'Actividad 9705', 'Descripción de la actividad 9705', '2020-12-05', '2021-01-12', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9706, 'Actividad 9706', 'Descripción de la actividad 9706', '2011-08-15', '2011-09-26', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9707, 'Actividad 9707', 'Descripción de la actividad 9707', '2019-12-29', '2020-01-28', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9708, 'Actividad 9708', 'Descripción de la actividad 9708', '2021-05-01', '2021-06-22', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9709, 'Actividad 9709', 'Descripción de la actividad 9709', '2018-08-23', '2018-09-21', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9710, 'Actividad 9710', 'Descripción de la actividad 9710', '2013-06-06', '2013-06-15', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9711, 'Actividad 9711', 'Descripción de la actividad 9711', '2019-11-12', '2019-12-24', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9712, 'Actividad 9712', 'Descripción de la actividad 9712', '2011-05-21', '2011-06-08', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9713, 'Actividad 9713', 'Descripción de la actividad 9713', '2015-08-27', '2015-09-20', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9714, 'Actividad 9714', 'Descripción de la actividad 9714', '2015-07-28', '2015-08-15', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9715, 'Actividad 9715', 'Descripción de la actividad 9715', '2018-01-31', '2018-02-07', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9716, 'Actividad 9716', 'Descripción de la actividad 9716', '2010-12-05', '2010-12-21', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9717, 'Actividad 9717', 'Descripción de la actividad 9717', '2016-11-14', '2017-01-03', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9718, 'Actividad 9718', 'Descripción de la actividad 9718', '2016-11-18', '2016-12-12', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9719, 'Actividad 9719', 'Descripción de la actividad 9719', '2018-03-31', '2018-05-08', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9720, 'Actividad 9720', 'Descripción de la actividad 9720', '2018-07-22', '2018-08-09', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9721, 'Actividad 9721', 'Descripción de la actividad 9721', '2010-06-25', '2010-07-28', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9722, 'Actividad 9722', 'Descripción de la actividad 9722', '2020-07-18', '2020-08-28', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9723, 'Actividad 9723', 'Descripción de la actividad 9723', '2014-10-28', '2014-11-21', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9724, 'Actividad 9724', 'Descripción de la actividad 9724', '2021-10-23', '2021-12-13', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9725, 'Actividad 9725', 'Descripción de la actividad 9725', '2010-09-11', '2010-10-11', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9726, 'Actividad 9726', 'Descripción de la actividad 9726', '2010-06-30', '2010-07-11', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9727, 'Actividad 9727', 'Descripción de la actividad 9727', '2011-02-19', '2011-03-27', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9728, 'Actividad 9728', 'Descripción de la actividad 9728', '2021-03-20', '2021-04-09', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9729, 'Actividad 9729', 'Descripción de la actividad 9729', '2015-02-26', '2015-04-09', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9730, 'Actividad 9730', 'Descripción de la actividad 9730', '2013-11-27', '2014-01-23', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9731, 'Actividad 9731', 'Descripción de la actividad 9731', '2012-04-30', '2012-06-18', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9732, 'Actividad 9732', 'Descripción de la actividad 9732', '2014-01-31', '2014-03-11', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9733, 'Actividad 9733', 'Descripción de la actividad 9733', '2011-12-28', '2012-02-25', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9734, 'Actividad 9734', 'Descripción de la actividad 9734', '2014-08-14', '2014-09-09', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9735, 'Actividad 9735', 'Descripción de la actividad 9735', '2012-05-08', '2012-05-28', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9736, 'Actividad 9736', 'Descripción de la actividad 9736', '2011-11-24', '2012-01-01', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9737, 'Actividad 9737', 'Descripción de la actividad 9737', '2015-08-27', '2015-09-08', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9738, 'Actividad 9738', 'Descripción de la actividad 9738', '2022-03-07', '2022-03-15', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9739, 'Actividad 9739', 'Descripción de la actividad 9739', '2014-05-25', '2014-06-25', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9740, 'Actividad 9740', 'Descripción de la actividad 9740', '2019-08-16', '2019-09-08', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9741, 'Actividad 9741', 'Descripción de la actividad 9741', '2013-03-21', '2013-04-29', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9742, 'Actividad 9742', 'Descripción de la actividad 9742', '2014-05-14', '2014-06-25', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9743, 'Actividad 9743', 'Descripción de la actividad 9743', '2010-12-30', '2011-02-14', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9744, 'Actividad 9744', 'Descripción de la actividad 9744', '2018-12-28', '2019-01-18', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9745, 'Actividad 9745', 'Descripción de la actividad 9745', '2011-12-24', '2011-12-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9746, 'Actividad 9746', 'Descripción de la actividad 9746', '2018-05-17', '2018-07-07', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9747, 'Actividad 9747', 'Descripción de la actividad 9747', '2014-07-12', '2014-07-30', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9748, 'Actividad 9748', 'Descripción de la actividad 9748', '2019-01-28', '2019-03-18', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9749, 'Actividad 9749', 'Descripción de la actividad 9749', '2014-05-10', '2014-05-21', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9750, 'Actividad 9750', 'Descripción de la actividad 9750', '2018-10-20', '2018-11-12', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9751, 'Actividad 9751', 'Descripción de la actividad 9751', '2014-04-26', '2014-05-17', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9752, 'Actividad 9752', 'Descripción de la actividad 9752', '2020-01-05', '2020-02-17', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9753, 'Actividad 9753', 'Descripción de la actividad 9753', '2020-12-11', '2020-12-31', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9754, 'Actividad 9754', 'Descripción de la actividad 9754', '2022-07-28', '2022-09-05', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9755, 'Actividad 9755', 'Descripción de la actividad 9755', '2014-08-20', '2014-10-09', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9756, 'Actividad 9756', 'Descripción de la actividad 9756', '2013-08-07', '2013-09-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9757, 'Actividad 9757', 'Descripción de la actividad 9757', '2011-02-02', '2011-03-10', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9758, 'Actividad 9758', 'Descripción de la actividad 9758', '2019-01-23', '2019-03-07', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9759, 'Actividad 9759', 'Descripción de la actividad 9759', '2016-06-13', '2016-07-05', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9760, 'Actividad 9760', 'Descripción de la actividad 9760', '2013-10-18', '2013-12-15', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9761, 'Actividad 9761', 'Descripción de la actividad 9761', '2015-07-11', '2015-08-12', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9762, 'Actividad 9762', 'Descripción de la actividad 9762', '2018-10-20', '2018-12-04', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9763, 'Actividad 9763', 'Descripción de la actividad 9763', '2016-12-20', '2017-01-31', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9764, 'Actividad 9764', 'Descripción de la actividad 9764', '2016-04-29', '2016-05-10', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9765, 'Actividad 9765', 'Descripción de la actividad 9765', '2018-12-14', '2018-12-21', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9766, 'Actividad 9766', 'Descripción de la actividad 9766', '2018-05-04', '2018-05-22', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9767, 'Actividad 9767', 'Descripción de la actividad 9767', '2016-07-07', '2016-08-21', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9768, 'Actividad 9768', 'Descripción de la actividad 9768', '2013-07-10', '2013-07-25', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9769, 'Actividad 9769', 'Descripción de la actividad 9769', '2011-06-07', '2011-06-17', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9770, 'Actividad 9770', 'Descripción de la actividad 9770', '2011-07-24', '2011-09-08', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9771, 'Actividad 9771', 'Descripción de la actividad 9771', '2014-09-10', '2014-10-24', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9772, 'Actividad 9772', 'Descripción de la actividad 9772', '2011-09-16', '2011-10-19', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9773, 'Actividad 9773', 'Descripción de la actividad 9773', '2018-09-17', '2018-11-16', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9774, 'Actividad 9774', 'Descripción de la actividad 9774', '2012-05-11', '2012-06-16', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9775, 'Actividad 9775', 'Descripción de la actividad 9775', '2021-06-03', '2021-06-11', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9776, 'Actividad 9776', 'Descripción de la actividad 9776', '2012-05-23', '2012-06-04', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9777, 'Actividad 9777', 'Descripción de la actividad 9777', '2019-06-14', '2019-07-19', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9778, 'Actividad 9778', 'Descripción de la actividad 9778', '2019-06-22', '2019-08-20', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9779, 'Actividad 9779', 'Descripción de la actividad 9779', '2020-08-28', '2020-09-30', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9780, 'Actividad 9780', 'Descripción de la actividad 9780', '2011-03-09', '2011-04-10', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9781, 'Actividad 9781', 'Descripción de la actividad 9781', '2014-10-26', '2014-12-13', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9782, 'Actividad 9782', 'Descripción de la actividad 9782', '2020-06-09', '2020-06-14', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9783, 'Actividad 9783', 'Descripción de la actividad 9783', '2012-11-08', '2012-12-29', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9784, 'Actividad 9784', 'Descripción de la actividad 9784', '2010-08-16', '2010-09-03', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9785, 'Actividad 9785', 'Descripción de la actividad 9785', '2018-01-09', '2018-02-13', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9786, 'Actividad 9786', 'Descripción de la actividad 9786', '2012-02-11', '2012-02-22', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9787, 'Actividad 9787', 'Descripción de la actividad 9787', '2016-09-14', '2016-11-05', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9788, 'Actividad 9788', 'Descripción de la actividad 9788', '2017-11-16', '2018-01-08', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9789, 'Actividad 9789', 'Descripción de la actividad 9789', '2012-10-15', '2012-12-08', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9790, 'Actividad 9790', 'Descripción de la actividad 9790', '2014-06-11', '2014-08-03', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9791, 'Actividad 9791', 'Descripción de la actividad 9791', '2015-01-22', '2015-03-12', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9792, 'Actividad 9792', 'Descripción de la actividad 9792', '2017-03-26', '2017-05-06', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9793, 'Actividad 9793', 'Descripción de la actividad 9793', '2021-10-08', '2021-10-25', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9794, 'Actividad 9794', 'Descripción de la actividad 9794', '2011-06-02', '2011-07-18', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9795, 'Actividad 9795', 'Descripción de la actividad 9795', '2019-09-18', '2019-10-03', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9796, 'Actividad 9796', 'Descripción de la actividad 9796', '2012-02-25', '2012-03-18', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9797, 'Actividad 9797', 'Descripción de la actividad 9797', '2021-01-21', '2021-02-05', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9798, 'Actividad 9798', 'Descripción de la actividad 9798', '2014-05-23', '2014-05-31', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9799, 'Actividad 9799', 'Descripción de la actividad 9799', '2012-12-06', '2013-01-18', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9800, 'Actividad 9800', 'Descripción de la actividad 9800', '2021-11-09', '2021-12-17', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9801, 'Actividad 9801', 'Descripción de la actividad 9801', '2015-03-08', '2015-04-21', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9802, 'Actividad 9802', 'Descripción de la actividad 9802', '2016-06-08', '2016-07-18', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9803, 'Actividad 9803', 'Descripción de la actividad 9803', '2013-06-02', '2013-07-15', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9804, 'Actividad 9804', 'Descripción de la actividad 9804', '2011-08-26', '2011-08-31', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9805, 'Actividad 9805', 'Descripción de la actividad 9805', '2018-10-28', '2018-12-13', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9806, 'Actividad 9806', 'Descripción de la actividad 9806', '2016-06-30', '2016-07-14', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9807, 'Actividad 9807', 'Descripción de la actividad 9807', '2014-08-30', '2014-10-06', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9808, 'Actividad 9808', 'Descripción de la actividad 9808', '2014-03-08', '2014-04-09', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9809, 'Actividad 9809', 'Descripción de la actividad 9809', '2015-05-28', '2015-06-05', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9810, 'Actividad 9810', 'Descripción de la actividad 9810', '2011-09-01', '2011-10-15', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9811, 'Actividad 9811', 'Descripción de la actividad 9811', '2010-03-16', '2010-04-15', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9812, 'Actividad 9812', 'Descripción de la actividad 9812', '2019-12-09', '2020-01-16', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9813, 'Actividad 9813', 'Descripción de la actividad 9813', '2014-07-30', '2014-09-14', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9814, 'Actividad 9814', 'Descripción de la actividad 9814', '2010-04-03', '2010-05-02', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9815, 'Actividad 9815', 'Descripción de la actividad 9815', '2013-10-09', '2013-11-09', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9816, 'Actividad 9816', 'Descripción de la actividad 9816', '2022-09-03', '2022-09-21', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9817, 'Actividad 9817', 'Descripción de la actividad 9817', '2022-11-20', '2023-01-11', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9818, 'Actividad 9818', 'Descripción de la actividad 9818', '2020-12-25', '2021-01-17', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9819, 'Actividad 9819', 'Descripción de la actividad 9819', '2010-05-15', '2010-06-02', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9820, 'Actividad 9820', 'Descripción de la actividad 9820', '2010-06-13', '2010-06-19', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9821, 'Actividad 9821', 'Descripción de la actividad 9821', '2018-06-13', '2018-06-25', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9822, 'Actividad 9822', 'Descripción de la actividad 9822', '2017-07-30', '2017-09-09', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9823, 'Actividad 9823', 'Descripción de la actividad 9823', '2022-11-08', '2022-11-26', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9824, 'Actividad 9824', 'Descripción de la actividad 9824', '2012-11-30', '2013-01-25', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9825, 'Actividad 9825', 'Descripción de la actividad 9825', '2013-08-01', '2013-08-13', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9826, 'Actividad 9826', 'Descripción de la actividad 9826', '2013-11-23', '2013-12-28', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9827, 'Actividad 9827', 'Descripción de la actividad 9827', '2011-04-13', '2011-04-28', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9828, 'Actividad 9828', 'Descripción de la actividad 9828', '2018-12-24', '2019-02-17', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9829, 'Actividad 9829', 'Descripción de la actividad 9829', '2013-10-22', '2013-12-17', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9830, 'Actividad 9830', 'Descripción de la actividad 9830', '2016-09-30', '2016-10-14', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9831, 'Actividad 9831', 'Descripción de la actividad 9831', '2019-01-08', '2019-02-27', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9832, 'Actividad 9832', 'Descripción de la actividad 9832', '2021-03-14', '2021-04-13', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9833, 'Actividad 9833', 'Descripción de la actividad 9833', '2015-09-23', '2015-10-09', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9834, 'Actividad 9834', 'Descripción de la actividad 9834', '2021-06-01', '2021-06-10', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9835, 'Actividad 9835', 'Descripción de la actividad 9835', '2014-06-07', '2014-07-30', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9836, 'Actividad 9836', 'Descripción de la actividad 9836', '2016-06-14', '2016-06-28', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9837, 'Actividad 9837', 'Descripción de la actividad 9837', '2013-04-26', '2013-05-07', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9838, 'Actividad 9838', 'Descripción de la actividad 9838', '2011-05-05', '2011-06-16', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9839, 'Actividad 9839', 'Descripción de la actividad 9839', '2013-04-29', '2013-05-06', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9840, 'Actividad 9840', 'Descripción de la actividad 9840', '2010-12-30', '2011-01-18', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9841, 'Actividad 9841', 'Descripción de la actividad 9841', '2015-11-08', '2015-11-25', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9842, 'Actividad 9842', 'Descripción de la actividad 9842', '2010-03-01', '2010-04-17', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9843, 'Actividad 9843', 'Descripción de la actividad 9843', '2021-05-23', '2021-06-16', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9844, 'Actividad 9844', 'Descripción de la actividad 9844', '2019-02-19', '2019-04-20', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9845, 'Actividad 9845', 'Descripción de la actividad 9845', '2019-07-20', '2019-08-24', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9846, 'Actividad 9846', 'Descripción de la actividad 9846', '2011-09-28', '2011-11-01', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9847, 'Actividad 9847', 'Descripción de la actividad 9847', '2011-12-19', '2012-01-07', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9848, 'Actividad 9848', 'Descripción de la actividad 9848', '2016-08-03', '2016-09-09', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9849, 'Actividad 9849', 'Descripción de la actividad 9849', '2020-04-03', '2020-04-19', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9850, 'Actividad 9850', 'Descripción de la actividad 9850', '2020-04-06', '2020-05-31', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9851, 'Actividad 9851', 'Descripción de la actividad 9851', '2015-10-14', '2015-10-21', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9852, 'Actividad 9852', 'Descripción de la actividad 9852', '2014-08-19', '2014-09-02', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9853, 'Actividad 9853', 'Descripción de la actividad 9853', '2020-09-25', '2020-11-07', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9854, 'Actividad 9854', 'Descripción de la actividad 9854', '2016-10-09', '2016-10-18', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9855, 'Actividad 9855', 'Descripción de la actividad 9855', '2016-02-16', '2016-03-08', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9856, 'Actividad 9856', 'Descripción de la actividad 9856', '2013-07-20', '2013-08-03', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9857, 'Actividad 9857', 'Descripción de la actividad 9857', '2016-03-29', '2016-04-12', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9858, 'Actividad 9858', 'Descripción de la actividad 9858', '2015-09-26', '2015-10-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9859, 'Actividad 9859', 'Descripción de la actividad 9859', '2021-06-18', '2021-06-27', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9860, 'Actividad 9860', 'Descripción de la actividad 9860', '2014-11-19', '2014-12-06', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9861, 'Actividad 9861', 'Descripción de la actividad 9861', '2018-01-20', '2018-03-17', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9862, 'Actividad 9862', 'Descripción de la actividad 9862', '2012-12-05', '2013-01-15', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9863, 'Actividad 9863', 'Descripción de la actividad 9863', '2014-05-17', '2014-06-16', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9864, 'Actividad 9864', 'Descripción de la actividad 9864', '2011-04-16', '2011-06-09', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9865, 'Actividad 9865', 'Descripción de la actividad 9865', '2015-09-12', '2015-11-04', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9866, 'Actividad 9866', 'Descripción de la actividad 9866', '2022-12-09', '2023-01-03', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9867, 'Actividad 9867', 'Descripción de la actividad 9867', '2012-12-24', '2013-01-23', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9868, 'Actividad 9868', 'Descripción de la actividad 9868', '2013-05-11', '2013-07-10', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9869, 'Actividad 9869', 'Descripción de la actividad 9869', '2020-03-30', '2020-05-13', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9870, 'Actividad 9870', 'Descripción de la actividad 9870', '2013-07-05', '2013-08-31', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9871, 'Actividad 9871', 'Descripción de la actividad 9871', '2018-02-25', '2018-04-06', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9872, 'Actividad 9872', 'Descripción de la actividad 9872', '2019-04-20', '2019-05-27', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9873, 'Actividad 9873', 'Descripción de la actividad 9873', '2022-06-24', '2022-06-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9874, 'Actividad 9874', 'Descripción de la actividad 9874', '2018-10-21', '2018-12-18', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9875, 'Actividad 9875', 'Descripción de la actividad 9875', '2017-06-03', '2017-07-19', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9876, 'Actividad 9876', 'Descripción de la actividad 9876', '2013-07-13', '2013-07-21', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9877, 'Actividad 9877', 'Descripción de la actividad 9877', '2022-05-11', '2022-05-17', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9878, 'Actividad 9878', 'Descripción de la actividad 9878', '2021-06-26', '2021-08-02', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9879, 'Actividad 9879', 'Descripción de la actividad 9879', '2021-11-04', '2021-12-01', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9880, 'Actividad 9880', 'Descripción de la actividad 9880', '2020-11-17', '2020-12-16', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9881, 'Actividad 9881', 'Descripción de la actividad 9881', '2014-05-15', '2014-06-29', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9882, 'Actividad 9882', 'Descripción de la actividad 9882', '2012-12-04', '2012-12-17', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9883, 'Actividad 9883', 'Descripción de la actividad 9883', '2022-04-06', '2022-05-20', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9884, 'Actividad 9884', 'Descripción de la actividad 9884', '2021-10-15', '2021-11-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9885, 'Actividad 9885', 'Descripción de la actividad 9885', '2022-06-24', '2022-08-23', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9886, 'Actividad 9886', 'Descripción de la actividad 9886', '2016-11-21', '2017-01-02', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9887, 'Actividad 9887', 'Descripción de la actividad 9887', '2018-11-19', '2019-01-07', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9888, 'Actividad 9888', 'Descripción de la actividad 9888', '2015-05-10', '2015-06-02', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9889, 'Actividad 9889', 'Descripción de la actividad 9889', '2020-04-15', '2020-04-28', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9890, 'Actividad 9890', 'Descripción de la actividad 9890', '2020-01-19', '2020-03-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9891, 'Actividad 9891', 'Descripción de la actividad 9891', '2017-03-05', '2017-03-26', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9892, 'Actividad 9892', 'Descripción de la actividad 9892', '2018-02-08', '2018-04-07', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9893, 'Actividad 9893', 'Descripción de la actividad 9893', '2015-04-30', '2015-05-30', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9894, 'Actividad 9894', 'Descripción de la actividad 9894', '2013-08-26', '2013-09-22', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9895, 'Actividad 9895', 'Descripción de la actividad 9895', '2012-07-22', '2012-07-27', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9896, 'Actividad 9896', 'Descripción de la actividad 9896', '2012-04-02', '2012-05-22', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9897, 'Actividad 9897', 'Descripción de la actividad 9897', '2013-06-18', '2013-06-25', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9898, 'Actividad 9898', 'Descripción de la actividad 9898', '2012-05-19', '2012-05-27', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9899, 'Actividad 9899', 'Descripción de la actividad 9899', '2019-06-22', '2019-07-10', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9900, 'Actividad 9900', 'Descripción de la actividad 9900', '2011-10-23', '2011-11-09', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9901, 'Actividad 9901', 'Descripción de la actividad 9901', '2013-02-19', '2013-04-11', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9902, 'Actividad 9902', 'Descripción de la actividad 9902', '2022-07-16', '2022-07-22', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9903, 'Actividad 9903', 'Descripción de la actividad 9903', '2011-08-10', '2011-08-28', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9904, 'Actividad 9904', 'Descripción de la actividad 9904', '2022-05-06', '2022-06-20', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9905, 'Actividad 9905', 'Descripción de la actividad 9905', '2020-12-16', '2021-01-23', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9906, 'Actividad 9906', 'Descripción de la actividad 9906', '2017-12-18', '2018-02-10', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9907, 'Actividad 9907', 'Descripción de la actividad 9907', '2013-03-01', '2013-04-17', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9908, 'Actividad 9908', 'Descripción de la actividad 9908', '2011-06-23', '2011-08-04', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9909, 'Actividad 9909', 'Descripción de la actividad 9909', '2020-06-01', '2020-07-12', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9910, 'Actividad 9910', 'Descripción de la actividad 9910', '2017-09-09', '2017-10-16', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9911, 'Actividad 9911', 'Descripción de la actividad 9911', '2010-10-31', '2010-11-05', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9912, 'Actividad 9912', 'Descripción de la actividad 9912', '2019-02-02', '2019-02-26', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9913, 'Actividad 9913', 'Descripción de la actividad 9913', '2019-12-13', '2020-01-25', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9914, 'Actividad 9914', 'Descripción de la actividad 9914', '2020-07-07', '2020-07-15', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9915, 'Actividad 9915', 'Descripción de la actividad 9915', '2021-06-11', '2021-08-03', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9916, 'Actividad 9916', 'Descripción de la actividad 9916', '2011-10-20', '2011-11-05', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9917, 'Actividad 9917', 'Descripción de la actividad 9917', '2015-11-09', '2016-01-06', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9918, 'Actividad 9918', 'Descripción de la actividad 9918', '2010-04-18', '2010-06-17', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9919, 'Actividad 9919', 'Descripción de la actividad 9919', '2020-02-03', '2020-03-14', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9920, 'Actividad 9920', 'Descripción de la actividad 9920', '2015-06-09', '2015-06-15', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9921, 'Actividad 9921', 'Descripción de la actividad 9921', '2020-09-15', '2020-10-21', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9922, 'Actividad 9922', 'Descripción de la actividad 9922', '2011-07-02', '2011-08-19', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9923, 'Actividad 9923', 'Descripción de la actividad 9923', '2013-09-23', '2013-10-28', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9924, 'Actividad 9924', 'Descripción de la actividad 9924', '2011-09-03', '2011-10-15', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9925, 'Actividad 9925', 'Descripción de la actividad 9925', '2014-03-26', '2014-05-07', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9926, 'Actividad 9926', 'Descripción de la actividad 9926', '2020-02-01', '2020-03-07', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9927, 'Actividad 9927', 'Descripción de la actividad 9927', '2010-06-05', '2010-06-12', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9928, 'Actividad 9928', 'Descripción de la actividad 9928', '2017-01-31', '2017-03-28', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9929, 'Actividad 9929', 'Descripción de la actividad 9929', '2012-12-02', '2013-01-08', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9930, 'Actividad 9930', 'Descripción de la actividad 9930', '2010-09-20', '2010-11-13', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9931, 'Actividad 9931', 'Descripción de la actividad 9931', '2017-02-15', '2017-03-05', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9932, 'Actividad 9932', 'Descripción de la actividad 9932', '2018-06-15', '2018-08-12', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9933, 'Actividad 9933', 'Descripción de la actividad 9933', '2016-06-20', '2016-07-07', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9934, 'Actividad 9934', 'Descripción de la actividad 9934', '2014-03-02', '2014-03-30', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9935, 'Actividad 9935', 'Descripción de la actividad 9935', '2018-06-08', '2018-07-18', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9936, 'Actividad 9936', 'Descripción de la actividad 9936', '2011-06-19', '2011-08-06', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9937, 'Actividad 9937', 'Descripción de la actividad 9937', '2020-08-19', '2020-09-27', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9938, 'Actividad 9938', 'Descripción de la actividad 9938', '2014-11-08', '2014-12-12', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9939, 'Actividad 9939', 'Descripción de la actividad 9939', '2022-05-23', '2022-06-25', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9940, 'Actividad 9940', 'Descripción de la actividad 9940', '2011-05-13', '2011-06-11', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9941, 'Actividad 9941', 'Descripción de la actividad 9941', '2022-09-07', '2022-10-20', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9942, 'Actividad 9942', 'Descripción de la actividad 9942', '2022-09-25', '2022-10-14', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9943, 'Actividad 9943', 'Descripción de la actividad 9943', '2017-01-06', '2017-02-25', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9944, 'Actividad 9944', 'Descripción de la actividad 9944', '2014-09-01', '2014-09-17', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9945, 'Actividad 9945', 'Descripción de la actividad 9945', '2010-07-22', '2010-08-18', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9946, 'Actividad 9946', 'Descripción de la actividad 9946', '2014-09-22', '2014-10-30', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9947, 'Actividad 9947', 'Descripción de la actividad 9947', '2020-05-01', '2020-05-14', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9948, 'Actividad 9948', 'Descripción de la actividad 9948', '2020-12-03', '2021-01-24', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9949, 'Actividad 9949', 'Descripción de la actividad 9949', '2012-08-13', '2012-08-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9950, 'Actividad 9950', 'Descripción de la actividad 9950', '2022-10-03', '2022-11-12', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9951, 'Actividad 9951', 'Descripción de la actividad 9951', '2010-02-17', '2010-03-13', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9952, 'Actividad 9952', 'Descripción de la actividad 9952', '2010-06-29', '2010-07-27', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9953, 'Actividad 9953', 'Descripción de la actividad 9953', '2021-03-07', '2021-04-09', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9954, 'Actividad 9954', 'Descripción de la actividad 9954', '2020-07-02', '2020-08-06', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9955, 'Actividad 9955', 'Descripción de la actividad 9955', '2017-07-14', '2017-08-08', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9956, 'Actividad 9956', 'Descripción de la actividad 9956', '2012-03-29', '2012-04-30', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9957, 'Actividad 9957', 'Descripción de la actividad 9957', '2016-05-07', '2016-05-12', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9958, 'Actividad 9958', 'Descripción de la actividad 9958', '2011-10-19', '2011-12-16', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9959, 'Actividad 9959', 'Descripción de la actividad 9959', '2018-06-05', '2018-07-11', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9960, 'Actividad 9960', 'Descripción de la actividad 9960', '2020-07-10', '2020-07-15', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9961, 'Actividad 9961', 'Descripción de la actividad 9961', '2015-12-17', '2016-02-07', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9962, 'Actividad 9962', 'Descripción de la actividad 9962', '2019-08-21', '2019-09-09', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9963, 'Actividad 9963', 'Descripción de la actividad 9963', '2017-01-15', '2017-02-09', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9964, 'Actividad 9964', 'Descripción de la actividad 9964', '2019-02-28', '2019-03-08', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9965, 'Actividad 9965', 'Descripción de la actividad 9965', '2016-04-29', '2016-05-29', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9966, 'Actividad 9966', 'Descripción de la actividad 9966', '2020-02-27', '2020-04-05', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9967, 'Actividad 9967', 'Descripción de la actividad 9967', '2020-08-12', '2020-08-18', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9968, 'Actividad 9968', 'Descripción de la actividad 9968', '2017-06-22', '2017-07-26', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9969, 'Actividad 9969', 'Descripción de la actividad 9969', '2010-03-10', '2010-04-26', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9970, 'Actividad 9970', 'Descripción de la actividad 9970', '2011-08-01', '2011-08-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9971, 'Actividad 9971', 'Descripción de la actividad 9971', '2017-06-07', '2017-07-04', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9972, 'Actividad 9972', 'Descripción de la actividad 9972', '2017-05-03', '2017-05-26', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9973, 'Actividad 9973', 'Descripción de la actividad 9973', '2022-07-22', '2022-08-14', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9974, 'Actividad 9974', 'Descripción de la actividad 9974', '2014-01-12', '2014-02-03', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9975, 'Actividad 9975', 'Descripción de la actividad 9975', '2021-01-19', '2021-03-08', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9976, 'Actividad 9976', 'Descripción de la actividad 9976', '2019-06-11', '2019-07-31', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9977, 'Actividad 9977', 'Descripción de la actividad 9977', '2011-11-29', '2012-01-09', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9978, 'Actividad 9978', 'Descripción de la actividad 9978', '2022-03-23', '2022-05-03', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9979, 'Actividad 9979', 'Descripción de la actividad 9979', '2012-02-09', '2012-04-07', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9980, 'Actividad 9980', 'Descripción de la actividad 9980', '2011-05-16', '2011-05-21', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9981, 'Actividad 9981', 'Descripción de la actividad 9981', '2011-11-09', '2011-12-14', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9982, 'Actividad 9982', 'Descripción de la actividad 9982', '2019-05-13', '2019-06-16', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9983, 'Actividad 9983', 'Descripción de la actividad 9983', '2021-03-31', '2021-04-20', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9984, 'Actividad 9984', 'Descripción de la actividad 9984', '2015-09-28', '2015-11-02', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9985, 'Actividad 9985', 'Descripción de la actividad 9985', '2018-05-11', '2018-05-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9986, 'Actividad 9986', 'Descripción de la actividad 9986', '2022-01-03', '2022-01-24', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9987, 'Actividad 9987', 'Descripción de la actividad 9987', '2014-03-08', '2014-04-14', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9988, 'Actividad 9988', 'Descripción de la actividad 9988', '2013-12-28', '2014-02-03', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9989, 'Actividad 9989', 'Descripción de la actividad 9989', '2018-12-28', '2019-02-12', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9990, 'Actividad 9990', 'Descripción de la actividad 9990', '2019-12-10', '2020-01-17', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9991, 'Actividad 9991', 'Descripción de la actividad 9991', '2014-01-16', '2014-02-24', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9992, 'Actividad 9992', 'Descripción de la actividad 9992', '2017-06-18', '2017-08-17', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9993, 'Actividad 9993', 'Descripción de la actividad 9993', '2022-06-29', '2022-07-11', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9994, 'Actividad 9994', 'Descripción de la actividad 9994', '2011-01-06', '2011-02-08', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9995, 'Actividad 9995', 'Descripción de la actividad 9995', '2012-07-03', '2012-08-17', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9996, 'Actividad 9996', 'Descripción de la actividad 9996', '2013-08-09', '2013-09-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9997, 'Actividad 9997', 'Descripción de la actividad 9997', '2012-06-02', '2012-07-28', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9998, 'Actividad 9998', 'Descripción de la actividad 9998', '2021-01-11', '2021-01-17', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(9999, 'Actividad 9999', 'Descripción de la actividad 9999', '2016-04-08', '2016-04-20', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10000, 'Actividad 10000', 'Descripción de la actividad 10000', '2013-04-20', '2013-05-04', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10001, 'Actividad 10001', 'Descripción de la actividad 10001', '2011-05-10', '2011-06-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10002, 'Actividad 10002', 'Descripción de la actividad 10002', '2014-03-22', '2014-04-17', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10003, 'Actividad 10003', 'Descripción de la actividad 10003', '2013-03-17', '2013-05-01', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10004, 'Actividad 10004', 'Descripción de la actividad 10004', '2015-03-13', '2015-05-01', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10005, 'Actividad 10005', 'Descripción de la actividad 10005', '2010-07-31', '2010-09-01', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10006, 'Actividad 10006', 'Descripción de la actividad 10006', '2011-10-28', '2011-12-24', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10007, 'Actividad 10007', 'Descripción de la actividad 10007', '2010-05-10', '2010-06-30', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10008, 'Actividad 10008', 'Descripción de la actividad 10008', '2015-11-05', '2015-11-28', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10009, 'Actividad 10009', 'Descripción de la actividad 10009', '2014-08-04', '2014-08-25', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10010, 'Actividad 10010', 'Descripción de la actividad 10010', '2015-05-23', '2015-07-20', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10011, 'Actividad 10011', 'Descripción de la actividad 10011', '2010-08-02', '2010-08-11', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10012, 'Actividad 10012', 'Descripción de la actividad 10012', '2011-03-12', '2011-04-10', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10013, 'Actividad 10013', 'Descripción de la actividad 10013', '2017-04-27', '2017-05-18', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10014, 'Actividad 10014', 'Descripción de la actividad 10014', '2010-08-19', '2010-09-23', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10015, 'Actividad 10015', 'Descripción de la actividad 10015', '2015-06-07', '2015-06-18', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10016, 'Actividad 10016', 'Descripción de la actividad 10016', '2018-04-20', '2018-05-24', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10017, 'Actividad 10017', 'Descripción de la actividad 10017', '2018-03-24', '2018-04-20', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10018, 'Actividad 10018', 'Descripción de la actividad 10018', '2017-06-14', '2017-08-10', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10019, 'Actividad 10019', 'Descripción de la actividad 10019', '2021-04-01', '2021-05-07', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10020, 'Actividad 10020', 'Descripción de la actividad 10020', '2015-05-18', '2015-06-12', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10021, 'Actividad 10021', 'Descripción de la actividad 10021', '2018-08-02', '2018-08-29', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10022, 'Actividad 10022', 'Descripción de la actividad 10022', '2014-07-14', '2014-07-27', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10023, 'Actividad 10023', 'Descripción de la actividad 10023', '2011-01-12', '2011-01-18', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10024, 'Actividad 10024', 'Descripción de la actividad 10024', '2022-09-07', '2022-09-28', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10025, 'Actividad 10025', 'Descripción de la actividad 10025', '2022-07-20', '2022-08-02', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10026, 'Actividad 10026', 'Descripción de la actividad 10026', '2016-07-04', '2016-08-03', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10027, 'Actividad 10027', 'Descripción de la actividad 10027', '2014-12-28', '2015-02-06', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10028, 'Actividad 10028', 'Descripción de la actividad 10028', '2017-08-19', '2017-09-23', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10029, 'Actividad 10029', 'Descripción de la actividad 10029', '2015-12-07', '2016-01-31', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10030, 'Actividad 10030', 'Descripción de la actividad 10030', '2014-10-21', '2014-11-18', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10031, 'Actividad 10031', 'Descripción de la actividad 10031', '2021-06-24', '2021-08-23', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10032, 'Actividad 10032', 'Descripción de la actividad 10032', '2014-01-16', '2014-03-03', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10033, 'Actividad 10033', 'Descripción de la actividad 10033', '2011-06-18', '2011-07-17', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10034, 'Actividad 10034', 'Descripción de la actividad 10034', '2011-08-30', '2011-09-17', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10035, 'Actividad 10035', 'Descripción de la actividad 10035', '2018-11-17', '2018-12-02', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10036, 'Actividad 10036', 'Descripción de la actividad 10036', '2013-09-03', '2013-10-29', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10037, 'Actividad 10037', 'Descripción de la actividad 10037', '2010-05-28', '2010-07-02', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10038, 'Actividad 10038', 'Descripción de la actividad 10038', '2011-09-27', '2011-10-26', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10039, 'Actividad 10039', 'Descripción de la actividad 10039', '2019-07-22', '2019-09-02', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10040, 'Actividad 10040', 'Descripción de la actividad 10040', '2016-04-08', '2016-04-25', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10041, 'Actividad 10041', 'Descripción de la actividad 10041', '2017-05-11', '2017-06-30', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10042, 'Actividad 10042', 'Descripción de la actividad 10042', '2011-09-20', '2011-10-24', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10043, 'Actividad 10043', 'Descripción de la actividad 10043', '2021-06-28', '2021-08-17', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10044, 'Actividad 10044', 'Descripción de la actividad 10044', '2015-12-06', '2016-02-03', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10045, 'Actividad 10045', 'Descripción de la actividad 10045', '2021-03-28', '2021-04-23', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10046, 'Actividad 10046', 'Descripción de la actividad 10046', '2016-09-28', '2016-10-09', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10047, 'Actividad 10047', 'Descripción de la actividad 10047', '2022-09-11', '2022-10-20', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10048, 'Actividad 10048', 'Descripción de la actividad 10048', '2010-01-04', '2010-02-23', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10049, 'Actividad 10049', 'Descripción de la actividad 10049', '2016-08-05', '2016-08-24', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10050, 'Actividad 10050', 'Descripción de la actividad 10050', '2020-12-02', '2021-01-12', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10051, 'Actividad 10051', 'Descripción de la actividad 10051', '2016-06-01', '2016-07-12', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10052, 'Actividad 10052', 'Descripción de la actividad 10052', '2015-07-04', '2015-08-21', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10053, 'Actividad 10053', 'Descripción de la actividad 10053', '2011-03-22', '2011-04-08', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10054, 'Actividad 10054', 'Descripción de la actividad 10054', '2021-08-28', '2021-09-17', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10055, 'Actividad 10055', 'Descripción de la actividad 10055', '2012-02-27', '2012-04-22', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10056, 'Actividad 10056', 'Descripción de la actividad 10056', '2021-06-25', '2021-07-23', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10057, 'Actividad 10057', 'Descripción de la actividad 10057', '2014-02-05', '2014-02-15', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10058, 'Actividad 10058', 'Descripción de la actividad 10058', '2015-02-11', '2015-03-27', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10059, 'Actividad 10059', 'Descripción de la actividad 10059', '2010-01-24', '2010-03-15', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10060, 'Actividad 10060', 'Descripción de la actividad 10060', '2011-10-21', '2011-11-10', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10061, 'Actividad 10061', 'Descripción de la actividad 10061', '2019-08-09', '2019-09-10', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10062, 'Actividad 10062', 'Descripción de la actividad 10062', '2010-01-23', '2010-01-29', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10063, 'Actividad 10063', 'Descripción de la actividad 10063', '2015-08-13', '2015-09-17', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10064, 'Actividad 10064', 'Descripción de la actividad 10064', '2012-04-06', '2012-05-30', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10065, 'Actividad 10065', 'Descripción de la actividad 10065', '2017-04-12', '2017-04-19', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10066, 'Actividad 10066', 'Descripción de la actividad 10066', '2020-03-12', '2020-05-10', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10067, 'Actividad 10067', 'Descripción de la actividad 10067', '2020-09-20', '2020-10-19', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10068, 'Actividad 10068', 'Descripción de la actividad 10068', '2013-08-22', '2013-10-19', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10069, 'Actividad 10069', 'Descripción de la actividad 10069', '2019-02-22', '2019-04-22', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10070, 'Actividad 10070', 'Descripción de la actividad 10070', '2012-12-13', '2013-01-03', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10071, 'Actividad 10071', 'Descripción de la actividad 10071', '2018-08-03', '2018-08-16', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10072, 'Actividad 10072', 'Descripción de la actividad 10072', '2010-06-02', '2010-07-04', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10073, 'Actividad 10073', 'Descripción de la actividad 10073', '2020-05-23', '2020-06-25', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10074, 'Actividad 10074', 'Descripción de la actividad 10074', '2018-12-23', '2019-01-01', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10075, 'Actividad 10075', 'Descripción de la actividad 10075', '2017-05-17', '2017-06-23', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10076, 'Actividad 10076', 'Descripción de la actividad 10076', '2022-09-09', '2022-11-03', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10077, 'Actividad 10077', 'Descripción de la actividad 10077', '2011-09-02', '2011-10-24', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10078, 'Actividad 10078', 'Descripción de la actividad 10078', '2020-12-14', '2021-01-15', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10079, 'Actividad 10079', 'Descripción de la actividad 10079', '2015-05-24', '2015-06-13', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10080, 'Actividad 10080', 'Descripción de la actividad 10080', '2015-02-10', '2015-03-22', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10081, 'Actividad 10081', 'Descripción de la actividad 10081', '2013-06-27', '2013-08-10', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10082, 'Actividad 10082', 'Descripción de la actividad 10082', '2015-03-11', '2015-05-10', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10083, 'Actividad 10083', 'Descripción de la actividad 10083', '2013-07-04', '2013-08-18', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10084, 'Actividad 10084', 'Descripción de la actividad 10084', '2011-02-18', '2011-04-14', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10085, 'Actividad 10085', 'Descripción de la actividad 10085', '2018-04-24', '2018-05-20', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10086, 'Actividad 10086', 'Descripción de la actividad 10086', '2021-07-29', '2021-09-13', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10087, 'Actividad 10087', 'Descripción de la actividad 10087', '2022-04-14', '2022-05-28', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10088, 'Actividad 10088', 'Descripción de la actividad 10088', '2011-07-12', '2011-08-28', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10089, 'Actividad 10089', 'Descripción de la actividad 10089', '2018-11-20', '2018-12-29', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10090, 'Actividad 10090', 'Descripción de la actividad 10090', '2013-08-21', '2013-09-29', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10091, 'Actividad 10091', 'Descripción de la actividad 10091', '2019-06-28', '2019-07-30', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10092, 'Actividad 10092', 'Descripción de la actividad 10092', '2013-09-10', '2013-10-23', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10093, 'Actividad 10093', 'Descripción de la actividad 10093', '2018-04-25', '2018-06-12', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10094, 'Actividad 10094', 'Descripción de la actividad 10094', '2022-04-01', '2022-04-07', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10095, 'Actividad 10095', 'Descripción de la actividad 10095', '2010-01-12', '2010-01-21', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10096, 'Actividad 10096', 'Descripción de la actividad 10096', '2016-09-23', '2016-10-26', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10097, 'Actividad 10097', 'Descripción de la actividad 10097', '2011-09-01', '2011-09-11', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10098, 'Actividad 10098', 'Descripción de la actividad 10098', '2014-06-04', '2014-06-22', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10099, 'Actividad 10099', 'Descripción de la actividad 10099', '2013-12-30', '2014-01-24', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10100, 'Actividad 10100', 'Descripción de la actividad 10100', '2021-07-22', '2021-09-15', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10101, 'Actividad 10101', 'Descripción de la actividad 10101', '2021-02-22', '2021-03-28', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10102, 'Actividad 10102', 'Descripción de la actividad 10102', '2022-06-10', '2022-07-29', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10103, 'Actividad 10103', 'Descripción de la actividad 10103', '2018-07-03', '2018-08-07', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10104, 'Actividad 10104', 'Descripción de la actividad 10104', '2018-03-16', '2018-03-27', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10105, 'Actividad 10105', 'Descripción de la actividad 10105', '2017-03-14', '2017-04-03', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10106, 'Actividad 10106', 'Descripción de la actividad 10106', '2019-07-24', '2019-08-06', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10107, 'Actividad 10107', 'Descripción de la actividad 10107', '2015-02-11', '2015-03-02', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10108, 'Actividad 10108', 'Descripción de la actividad 10108', '2022-05-09', '2022-06-05', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10109, 'Actividad 10109', 'Descripción de la actividad 10109', '2015-11-11', '2015-12-19', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10110, 'Actividad 10110', 'Descripción de la actividad 10110', '2015-02-03', '2015-03-28', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10111, 'Actividad 10111', 'Descripción de la actividad 10111', '2013-08-29', '2013-10-26', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10112, 'Actividad 10112', 'Descripción de la actividad 10112', '2014-08-25', '2014-09-06', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10113, 'Actividad 10113', 'Descripción de la actividad 10113', '2013-09-28', '2013-11-20', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10114, 'Actividad 10114', 'Descripción de la actividad 10114', '2021-03-07', '2021-05-02', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10115, 'Actividad 10115', 'Descripción de la actividad 10115', '2018-04-11', '2018-05-04', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10116, 'Actividad 10116', 'Descripción de la actividad 10116', '2020-04-29', '2020-06-01', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10117, 'Actividad 10117', 'Descripción de la actividad 10117', '2016-10-01', '2016-10-11', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10118, 'Actividad 10118', 'Descripción de la actividad 10118', '2022-02-25', '2022-04-22', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10119, 'Actividad 10119', 'Descripción de la actividad 10119', '2021-12-01', '2021-12-31', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10120, 'Actividad 10120', 'Descripción de la actividad 10120', '2015-07-27', '2015-09-13', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10121, 'Actividad 10121', 'Descripción de la actividad 10121', '2013-01-30', '2013-03-05', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10122, 'Actividad 10122', 'Descripción de la actividad 10122', '2011-05-17', '2011-06-11', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10123, 'Actividad 10123', 'Descripción de la actividad 10123', '2022-08-18', '2022-09-20', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10124, 'Actividad 10124', 'Descripción de la actividad 10124', '2014-01-16', '2014-02-19', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10125, 'Actividad 10125', 'Descripción de la actividad 10125', '2018-01-30', '2018-02-25', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10126, 'Actividad 10126', 'Descripción de la actividad 10126', '2016-04-18', '2016-05-23', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10127, 'Actividad 10127', 'Descripción de la actividad 10127', '2019-10-04', '2019-11-28', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10128, 'Actividad 10128', 'Descripción de la actividad 10128', '2018-01-28', '2018-02-08', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10129, 'Actividad 10129', 'Descripción de la actividad 10129', '2011-06-10', '2011-07-17', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10130, 'Actividad 10130', 'Descripción de la actividad 10130', '2010-08-20', '2010-09-08', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10131, 'Actividad 10131', 'Descripción de la actividad 10131', '2021-02-14', '2021-03-20', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10132, 'Actividad 10132', 'Descripción de la actividad 10132', '2021-10-06', '2021-11-08', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10133, 'Actividad 10133', 'Descripción de la actividad 10133', '2020-12-21', '2021-02-09', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10134, 'Actividad 10134', 'Descripción de la actividad 10134', '2021-09-03', '2021-10-03', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10135, 'Actividad 10135', 'Descripción de la actividad 10135', '2015-08-04', '2015-08-23', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10136, 'Actividad 10136', 'Descripción de la actividad 10136', '2021-03-27', '2021-05-07', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10137, 'Actividad 10137', 'Descripción de la actividad 10137', '2011-11-25', '2012-01-18', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10138, 'Actividad 10138', 'Descripción de la actividad 10138', '2011-07-24', '2011-08-26', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10139, 'Actividad 10139', 'Descripción de la actividad 10139', '2010-07-14', '2010-08-13', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10140, 'Actividad 10140', 'Descripción de la actividad 10140', '2016-12-31', '2017-02-09', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10141, 'Actividad 10141', 'Descripción de la actividad 10141', '2021-04-14', '2021-05-22', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10142, 'Actividad 10142', 'Descripción de la actividad 10142', '2022-07-30', '2022-09-23', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10143, 'Actividad 10143', 'Descripción de la actividad 10143', '2011-06-03', '2011-07-31', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10144, 'Actividad 10144', 'Descripción de la actividad 10144', '2015-12-05', '2015-12-17', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10145, 'Actividad 10145', 'Descripción de la actividad 10145', '2022-12-11', '2023-02-07', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10146, 'Actividad 10146', 'Descripción de la actividad 10146', '2015-03-17', '2015-04-30', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10147, 'Actividad 10147', 'Descripción de la actividad 10147', '2018-03-27', '2018-05-09', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10148, 'Actividad 10148', 'Descripción de la actividad 10148', '2014-01-06', '2014-02-23', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10149, 'Actividad 10149', 'Descripción de la actividad 10149', '2014-05-02', '2014-05-13', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10150, 'Actividad 10150', 'Descripción de la actividad 10150', '2018-10-02', '2018-11-20', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10151, 'Actividad 10151', 'Descripción de la actividad 10151', '2011-07-30', '2011-08-12', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10152, 'Actividad 10152', 'Descripción de la actividad 10152', '2022-11-12', '2022-11-21', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10153, 'Actividad 10153', 'Descripción de la actividad 10153', '2016-02-27', '2016-04-08', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10154, 'Actividad 10154', 'Descripción de la actividad 10154', '2021-07-06', '2021-08-16', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10155, 'Actividad 10155', 'Descripción de la actividad 10155', '2010-08-19', '2010-09-12', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10156, 'Actividad 10156', 'Descripción de la actividad 10156', '2017-12-27', '2018-01-29', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10157, 'Actividad 10157', 'Descripción de la actividad 10157', '2017-11-06', '2018-01-02', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10158, 'Actividad 10158', 'Descripción de la actividad 10158', '2022-08-16', '2022-09-21', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10159, 'Actividad 10159', 'Descripción de la actividad 10159', '2014-09-09', '2014-09-21', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10160, 'Actividad 10160', 'Descripción de la actividad 10160', '2010-02-13', '2010-03-11', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10161, 'Actividad 10161', 'Descripción de la actividad 10161', '2022-06-11', '2022-07-24', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10162, 'Actividad 10162', 'Descripción de la actividad 10162', '2016-06-06', '2016-06-15', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10163, 'Actividad 10163', 'Descripción de la actividad 10163', '2020-03-06', '2020-03-23', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10164, 'Actividad 10164', 'Descripción de la actividad 10164', '2010-03-23', '2010-04-25', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10165, 'Actividad 10165', 'Descripción de la actividad 10165', '2014-09-19', '2014-11-05', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10166, 'Actividad 10166', 'Descripción de la actividad 10166', '2010-05-15', '2010-05-20', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10167, 'Actividad 10167', 'Descripción de la actividad 10167', '2021-06-17', '2021-07-17', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10168, 'Actividad 10168', 'Descripción de la actividad 10168', '2019-08-17', '2019-10-09', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10169, 'Actividad 10169', 'Descripción de la actividad 10169', '2016-02-04', '2016-03-27', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10170, 'Actividad 10170', 'Descripción de la actividad 10170', '2011-07-02', '2011-07-31', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10171, 'Actividad 10171', 'Descripción de la actividad 10171', '2018-09-28', '2018-11-02', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10172, 'Actividad 10172', 'Descripción de la actividad 10172', '2011-07-17', '2011-08-22', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10173, 'Actividad 10173', 'Descripción de la actividad 10173', '2021-04-20', '2021-05-11', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10174, 'Actividad 10174', 'Descripción de la actividad 10174', '2016-12-16', '2017-01-21', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10175, 'Actividad 10175', 'Descripción de la actividad 10175', '2019-12-31', '2020-01-18', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10176, 'Actividad 10176', 'Descripción de la actividad 10176', '2016-02-21', '2016-03-03', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10177, 'Actividad 10177', 'Descripción de la actividad 10177', '2014-05-23', '2014-06-12', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10178, 'Actividad 10178', 'Descripción de la actividad 10178', '2019-06-06', '2019-07-19', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10179, 'Actividad 10179', 'Descripción de la actividad 10179', '2014-03-09', '2014-04-30', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10180, 'Actividad 10180', 'Descripción de la actividad 10180', '2020-03-11', '2020-03-25', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10181, 'Actividad 10181', 'Descripción de la actividad 10181', '2013-02-23', '2013-03-10', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10182, 'Actividad 10182', 'Descripción de la actividad 10182', '2019-02-09', '2019-04-05', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10183, 'Actividad 10183', 'Descripción de la actividad 10183', '2022-10-29', '2022-12-16', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10184, 'Actividad 10184', 'Descripción de la actividad 10184', '2014-01-05', '2014-03-02', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10185, 'Actividad 10185', 'Descripción de la actividad 10185', '2010-02-04', '2010-04-03', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10186, 'Actividad 10186', 'Descripción de la actividad 10186', '2016-08-26', '2016-10-08', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10187, 'Actividad 10187', 'Descripción de la actividad 10187', '2022-08-18', '2022-10-07', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10188, 'Actividad 10188', 'Descripción de la actividad 10188', '2018-11-04', '2018-11-27', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10189, 'Actividad 10189', 'Descripción de la actividad 10189', '2017-03-21', '2017-05-06', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10190, 'Actividad 10190', 'Descripción de la actividad 10190', '2018-02-16', '2018-03-11', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10191, 'Actividad 10191', 'Descripción de la actividad 10191', '2020-10-24', '2020-12-01', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10192, 'Actividad 10192', 'Descripción de la actividad 10192', '2013-02-28', '2013-04-08', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10193, 'Actividad 10193', 'Descripción de la actividad 10193', '2020-03-24', '2020-04-06', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10194, 'Actividad 10194', 'Descripción de la actividad 10194', '2015-01-04', '2015-02-22', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10195, 'Actividad 10195', 'Descripción de la actividad 10195', '2021-05-11', '2021-06-05', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10196, 'Actividad 10196', 'Descripción de la actividad 10196', '2019-02-16', '2019-03-22', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10197, 'Actividad 10197', 'Descripción de la actividad 10197', '2012-05-22', '2012-06-15', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10198, 'Actividad 10198', 'Descripción de la actividad 10198', '2011-01-17', '2011-02-28', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10199, 'Actividad 10199', 'Descripción de la actividad 10199', '2020-11-11', '2020-12-15', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10200, 'Actividad 10200', 'Descripción de la actividad 10200', '2014-11-18', '2015-01-03', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10201, 'Actividad 10201', 'Descripción de la actividad 10201', '2017-09-18', '2017-11-13', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10202, 'Actividad 10202', 'Descripción de la actividad 10202', '2020-07-26', '2020-09-09', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10203, 'Actividad 10203', 'Descripción de la actividad 10203', '2022-05-03', '2022-06-16', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10204, 'Actividad 10204', 'Descripción de la actividad 10204', '2017-01-31', '2017-02-13', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10205, 'Actividad 10205', 'Descripción de la actividad 10205', '2016-10-10', '2016-11-07', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10206, 'Actividad 10206', 'Descripción de la actividad 10206', '2021-09-18', '2021-10-18', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10207, 'Actividad 10207', 'Descripción de la actividad 10207', '2015-12-09', '2016-01-18', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10208, 'Actividad 10208', 'Descripción de la actividad 10208', '2012-06-03', '2012-07-11', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10209, 'Actividad 10209', 'Descripción de la actividad 10209', '2022-06-24', '2022-07-25', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10210, 'Actividad 10210', 'Descripción de la actividad 10210', '2011-02-16', '2011-03-06', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10211, 'Actividad 10211', 'Descripción de la actividad 10211', '2018-07-26', '2018-08-10', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10212, 'Actividad 10212', 'Descripción de la actividad 10212', '2021-06-02', '2021-07-27', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10213, 'Actividad 10213', 'Descripción de la actividad 10213', '2018-02-07', '2018-04-02', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10214, 'Actividad 10214', 'Descripción de la actividad 10214', '2020-07-15', '2020-07-29', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10215, 'Actividad 10215', 'Descripción de la actividad 10215', '2012-10-01', '2012-10-19', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10216, 'Actividad 10216', 'Descripción de la actividad 10216', '2019-07-26', '2019-09-08', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10217, 'Actividad 10217', 'Descripción de la actividad 10217', '2017-04-01', '2017-05-19', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10218, 'Actividad 10218', 'Descripción de la actividad 10218', '2010-01-31', '2010-03-31', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10219, 'Actividad 10219', 'Descripción de la actividad 10219', '2021-02-08', '2021-03-03', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10220, 'Actividad 10220', 'Descripción de la actividad 10220', '2011-07-16', '2011-08-24', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10221, 'Actividad 10221', 'Descripción de la actividad 10221', '2012-04-02', '2012-04-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10222, 'Actividad 10222', 'Descripción de la actividad 10222', '2020-01-14', '2020-02-01', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10223, 'Actividad 10223', 'Descripción de la actividad 10223', '2011-12-05', '2011-12-22', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10224, 'Actividad 10224', 'Descripción de la actividad 10224', '2015-08-10', '2015-09-26', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10225, 'Actividad 10225', 'Descripción de la actividad 10225', '2012-07-06', '2012-08-01', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10226, 'Actividad 10226', 'Descripción de la actividad 10226', '2020-02-13', '2020-03-20', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10227, 'Actividad 10227', 'Descripción de la actividad 10227', '2014-11-01', '2014-11-23', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10228, 'Actividad 10228', 'Descripción de la actividad 10228', '2018-09-22', '2018-11-19', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10229, 'Actividad 10229', 'Descripción de la actividad 10229', '2011-04-22', '2011-06-16', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10230, 'Actividad 10230', 'Descripción de la actividad 10230', '2018-08-11', '2018-08-26', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10231, 'Actividad 10231', 'Descripción de la actividad 10231', '2013-12-16', '2013-12-23', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10232, 'Actividad 10232', 'Descripción de la actividad 10232', '2012-05-02', '2012-06-20', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10233, 'Actividad 10233', 'Descripción de la actividad 10233', '2020-02-22', '2020-03-16', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10234, 'Actividad 10234', 'Descripción de la actividad 10234', '2013-10-26', '2013-11-06', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10235, 'Actividad 10235', 'Descripción de la actividad 10235', '2015-09-27', '2015-10-05', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10236, 'Actividad 10236', 'Descripción de la actividad 10236', '2020-07-29', '2020-08-28', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10237, 'Actividad 10237', 'Descripción de la actividad 10237', '2022-04-24', '2022-06-06', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10238, 'Actividad 10238', 'Descripción de la actividad 10238', '2014-01-02', '2014-01-29', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10239, 'Actividad 10239', 'Descripción de la actividad 10239', '2017-02-23', '2017-03-29', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10240, 'Actividad 10240', 'Descripción de la actividad 10240', '2021-08-24', '2021-10-10', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10241, 'Actividad 10241', 'Descripción de la actividad 10241', '2015-03-15', '2015-05-09', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10242, 'Actividad 10242', 'Descripción de la actividad 10242', '2021-10-07', '2021-11-17', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10243, 'Actividad 10243', 'Descripción de la actividad 10243', '2016-07-29', '2016-08-18', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10244, 'Actividad 10244', 'Descripción de la actividad 10244', '2010-08-21', '2010-09-08', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10245, 'Actividad 10245', 'Descripción de la actividad 10245', '2013-12-27', '2014-01-16', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10246, 'Actividad 10246', 'Descripción de la actividad 10246', '2012-02-14', '2012-04-01', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10247, 'Actividad 10247', 'Descripción de la actividad 10247', '2018-08-11', '2018-09-01', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10248, 'Actividad 10248', 'Descripción de la actividad 10248', '2013-04-30', '2013-05-30', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10249, 'Actividad 10249', 'Descripción de la actividad 10249', '2011-03-05', '2011-03-18', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10250, 'Actividad 10250', 'Descripción de la actividad 10250', '2019-09-15', '2019-11-11', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10251, 'Actividad 10251', 'Descripción de la actividad 10251', '2018-10-01', '2018-11-19', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10252, 'Actividad 10252', 'Descripción de la actividad 10252', '2017-01-17', '2017-03-16', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10253, 'Actividad 10253', 'Descripción de la actividad 10253', '2022-02-20', '2022-03-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10254, 'Actividad 10254', 'Descripción de la actividad 10254', '2011-07-01', '2011-07-23', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10255, 'Actividad 10255', 'Descripción de la actividad 10255', '2019-02-27', '2019-04-19', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10256, 'Actividad 10256', 'Descripción de la actividad 10256', '2019-11-20', '2019-12-20', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10257, 'Actividad 10257', 'Descripción de la actividad 10257', '2022-10-05', '2022-10-29', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10258, 'Actividad 10258', 'Descripción de la actividad 10258', '2021-02-13', '2021-03-22', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10259, 'Actividad 10259', 'Descripción de la actividad 10259', '2021-04-14', '2021-06-12', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10260, 'Actividad 10260', 'Descripción de la actividad 10260', '2012-01-07', '2012-02-11', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10261, 'Actividad 10261', 'Descripción de la actividad 10261', '2010-08-22', '2010-09-02', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10262, 'Actividad 10262', 'Descripción de la actividad 10262', '2012-07-16', '2012-08-10', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10263, 'Actividad 10263', 'Descripción de la actividad 10263', '2022-08-09', '2022-09-13', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10264, 'Actividad 10264', 'Descripción de la actividad 10264', '2018-11-10', '2019-01-09', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10265, 'Actividad 10265', 'Descripción de la actividad 10265', '2017-11-23', '2017-12-06', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10266, 'Actividad 10266', 'Descripción de la actividad 10266', '2017-05-25', '2017-06-10', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10267, 'Actividad 10267', 'Descripción de la actividad 10267', '2013-08-25', '2013-10-20', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10268, 'Actividad 10268', 'Descripción de la actividad 10268', '2010-03-27', '2010-04-07', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10269, 'Actividad 10269', 'Descripción de la actividad 10269', '2013-11-18', '2013-12-03', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10270, 'Actividad 10270', 'Descripción de la actividad 10270', '2015-08-23', '2015-10-14', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10271, 'Actividad 10271', 'Descripción de la actividad 10271', '2019-03-27', '2019-05-21', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10272, 'Actividad 10272', 'Descripción de la actividad 10272', '2021-10-11', '2021-12-06', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10273, 'Actividad 10273', 'Descripción de la actividad 10273', '2021-07-27', '2021-09-10', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10274, 'Actividad 10274', 'Descripción de la actividad 10274', '2017-12-29', '2018-01-29', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10275, 'Actividad 10275', 'Descripción de la actividad 10275', '2019-04-21', '2019-05-07', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10276, 'Actividad 10276', 'Descripción de la actividad 10276', '2020-03-01', '2020-04-09', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10277, 'Actividad 10277', 'Descripción de la actividad 10277', '2014-03-07', '2014-04-04', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10278, 'Actividad 10278', 'Descripción de la actividad 10278', '2010-08-31', '2010-10-25', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10279, 'Actividad 10279', 'Descripción de la actividad 10279', '2022-04-03', '2022-05-22', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10280, 'Actividad 10280', 'Descripción de la actividad 10280', '2011-04-30', '2011-06-07', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10281, 'Actividad 10281', 'Descripción de la actividad 10281', '2016-02-28', '2016-04-08', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10282, 'Actividad 10282', 'Descripción de la actividad 10282', '2014-08-12', '2014-10-06', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10283, 'Actividad 10283', 'Descripción de la actividad 10283', '2016-01-05', '2016-01-18', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10284, 'Actividad 10284', 'Descripción de la actividad 10284', '2018-05-27', '2018-06-25', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10285, 'Actividad 10285', 'Descripción de la actividad 10285', '2020-02-10', '2020-03-06', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10286, 'Actividad 10286', 'Descripción de la actividad 10286', '2012-05-15', '2012-06-26', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10287, 'Actividad 10287', 'Descripción de la actividad 10287', '2012-04-15', '2012-05-31', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10288, 'Actividad 10288', 'Descripción de la actividad 10288', '2017-11-20', '2017-12-04', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10289, 'Actividad 10289', 'Descripción de la actividad 10289', '2022-09-13', '2022-10-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10290, 'Actividad 10290', 'Descripción de la actividad 10290', '2016-11-29', '2016-12-06', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10291, 'Actividad 10291', 'Descripción de la actividad 10291', '2010-09-11', '2010-10-01', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10292, 'Actividad 10292', 'Descripción de la actividad 10292', '2015-07-15', '2015-07-25', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10293, 'Actividad 10293', 'Descripción de la actividad 10293', '2018-09-26', '2018-10-26', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10294, 'Actividad 10294', 'Descripción de la actividad 10294', '2015-07-24', '2015-09-10', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10295, 'Actividad 10295', 'Descripción de la actividad 10295', '2012-10-15', '2012-10-25', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10296, 'Actividad 10296', 'Descripción de la actividad 10296', '2012-09-02', '2012-09-26', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10297, 'Actividad 10297', 'Descripción de la actividad 10297', '2014-05-28', '2014-06-20', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10298, 'Actividad 10298', 'Descripción de la actividad 10298', '2012-06-13', '2012-07-22', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10299, 'Actividad 10299', 'Descripción de la actividad 10299', '2019-12-21', '2020-02-01', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10300, 'Actividad 10300', 'Descripción de la actividad 10300', '2014-01-18', '2014-01-25', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10301, 'Actividad 10301', 'Descripción de la actividad 10301', '2016-06-23', '2016-06-30', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10302, 'Actividad 10302', 'Descripción de la actividad 10302', '2013-06-18', '2013-07-03', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10303, 'Actividad 10303', 'Descripción de la actividad 10303', '2014-05-21', '2014-06-24', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10304, 'Actividad 10304', 'Descripción de la actividad 10304', '2017-04-05', '2017-04-18', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10305, 'Actividad 10305', 'Descripción de la actividad 10305', '2016-01-24', '2016-03-15', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10306, 'Actividad 10306', 'Descripción de la actividad 10306', '2021-01-09', '2021-01-27', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10307, 'Actividad 10307', 'Descripción de la actividad 10307', '2017-05-31', '2017-06-16', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10308, 'Actividad 10308', 'Descripción de la actividad 10308', '2018-10-20', '2018-10-26', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10309, 'Actividad 10309', 'Descripción de la actividad 10309', '2011-04-28', '2011-05-25', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10310, 'Actividad 10310', 'Descripción de la actividad 10310', '2022-09-09', '2022-10-23', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10311, 'Actividad 10311', 'Descripción de la actividad 10311', '2010-04-06', '2010-05-15', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10312, 'Actividad 10312', 'Descripción de la actividad 10312', '2019-06-07', '2019-07-05', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10313, 'Actividad 10313', 'Descripción de la actividad 10313', '2022-06-23', '2022-07-31', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10314, 'Actividad 10314', 'Descripción de la actividad 10314', '2015-02-15', '2015-04-08', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10315, 'Actividad 10315', 'Descripción de la actividad 10315', '2013-07-06', '2013-07-20', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10316, 'Actividad 10316', 'Descripción de la actividad 10316', '2013-09-18', '2013-10-04', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10317, 'Actividad 10317', 'Descripción de la actividad 10317', '2013-06-13', '2013-07-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10318, 'Actividad 10318', 'Descripción de la actividad 10318', '2011-10-10', '2011-10-18', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10319, 'Actividad 10319', 'Descripción de la actividad 10319', '2019-06-05', '2019-06-16', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10320, 'Actividad 10320', 'Descripción de la actividad 10320', '2010-02-11', '2010-03-23', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10321, 'Actividad 10321', 'Descripción de la actividad 10321', '2022-10-25', '2022-12-05', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10322, 'Actividad 10322', 'Descripción de la actividad 10322', '2010-05-31', '2010-07-10', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10323, 'Actividad 10323', 'Descripción de la actividad 10323', '2018-08-04', '2018-09-19', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10324, 'Actividad 10324', 'Descripción de la actividad 10324', '2012-06-13', '2012-07-20', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10325, 'Actividad 10325', 'Descripción de la actividad 10325', '2021-04-04', '2021-06-02', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10326, 'Actividad 10326', 'Descripción de la actividad 10326', '2015-05-16', '2015-07-13', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10327, 'Actividad 10327', 'Descripción de la actividad 10327', '2014-12-13', '2015-01-24', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10328, 'Actividad 10328', 'Descripción de la actividad 10328', '2013-07-01', '2013-07-21', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10329, 'Actividad 10329', 'Descripción de la actividad 10329', '2011-07-16', '2011-08-20', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10330, 'Actividad 10330', 'Descripción de la actividad 10330', '2021-07-03', '2021-07-10', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10331, 'Actividad 10331', 'Descripción de la actividad 10331', '2015-08-23', '2015-10-09', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10332, 'Actividad 10332', 'Descripción de la actividad 10332', '2010-05-30', '2010-06-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10333, 'Actividad 10333', 'Descripción de la actividad 10333', '2018-10-20', '2018-11-28', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10334, 'Actividad 10334', 'Descripción de la actividad 10334', '2018-02-24', '2018-04-02', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10335, 'Actividad 10335', 'Descripción de la actividad 10335', '2022-08-23', '2022-09-20', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10336, 'Actividad 10336', 'Descripción de la actividad 10336', '2016-05-23', '2016-06-21', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10337, 'Actividad 10337', 'Descripción de la actividad 10337', '2020-06-10', '2020-06-28', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10338, 'Actividad 10338', 'Descripción de la actividad 10338', '2021-09-09', '2021-10-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10339, 'Actividad 10339', 'Descripción de la actividad 10339', '2015-11-28', '2016-01-03', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10340, 'Actividad 10340', 'Descripción de la actividad 10340', '2010-05-08', '2010-05-18', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10341, 'Actividad 10341', 'Descripción de la actividad 10341', '2015-10-09', '2015-11-06', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10342, 'Actividad 10342', 'Descripción de la actividad 10342', '2018-08-11', '2018-09-02', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10343, 'Actividad 10343', 'Descripción de la actividad 10343', '2022-12-08', '2023-01-18', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10344, 'Actividad 10344', 'Descripción de la actividad 10344', '2012-12-23', '2013-01-26', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10345, 'Actividad 10345', 'Descripción de la actividad 10345', '2010-09-13', '2010-10-16', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10346, 'Actividad 10346', 'Descripción de la actividad 10346', '2012-05-04', '2012-06-12', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10347, 'Actividad 10347', 'Descripción de la actividad 10347', '2021-06-19', '2021-08-18', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10348, 'Actividad 10348', 'Descripción de la actividad 10348', '2018-06-05', '2018-07-26', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10349, 'Actividad 10349', 'Descripción de la actividad 10349', '2016-09-02', '2016-09-25', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10350, 'Actividad 10350', 'Descripción de la actividad 10350', '2018-09-05', '2018-10-05', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10351, 'Actividad 10351', 'Descripción de la actividad 10351', '2017-07-10', '2017-08-23', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10352, 'Actividad 10352', 'Descripción de la actividad 10352', '2013-02-11', '2013-03-18', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10353, 'Actividad 10353', 'Descripción de la actividad 10353', '2016-06-05', '2016-07-05', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10354, 'Actividad 10354', 'Descripción de la actividad 10354', '2018-06-04', '2018-07-18', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10355, 'Actividad 10355', 'Descripción de la actividad 10355', '2012-08-11', '2012-08-19', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10356, 'Actividad 10356', 'Descripción de la actividad 10356', '2017-04-14', '2017-05-01', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10357, 'Actividad 10357', 'Descripción de la actividad 10357', '2014-01-14', '2014-03-06', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10358, 'Actividad 10358', 'Descripción de la actividad 10358', '2013-01-12', '2013-02-26', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10359, 'Actividad 10359', 'Descripción de la actividad 10359', '2012-04-17', '2012-05-30', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10360, 'Actividad 10360', 'Descripción de la actividad 10360', '2015-04-18', '2015-05-13', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10361, 'Actividad 10361', 'Descripción de la actividad 10361', '2015-05-14', '2015-06-17', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10362, 'Actividad 10362', 'Descripción de la actividad 10362', '2018-06-11', '2018-06-28', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10363, 'Actividad 10363', 'Descripción de la actividad 10363', '2014-03-31', '2014-05-01', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10364, 'Actividad 10364', 'Descripción de la actividad 10364', '2010-08-08', '2010-09-18', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10365, 'Actividad 10365', 'Descripción de la actividad 10365', '2018-07-13', '2018-08-03', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10366, 'Actividad 10366', 'Descripción de la actividad 10366', '2010-01-11', '2010-02-17', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10367, 'Actividad 10367', 'Descripción de la actividad 10367', '2020-11-01', '2020-12-31', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10368, 'Actividad 10368', 'Descripción de la actividad 10368', '2021-09-26', '2021-10-16', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10369, 'Actividad 10369', 'Descripción de la actividad 10369', '2022-04-20', '2022-05-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10370, 'Actividad 10370', 'Descripción de la actividad 10370', '2020-02-10', '2020-03-29', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10371, 'Actividad 10371', 'Descripción de la actividad 10371', '2019-05-19', '2019-07-13', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10372, 'Actividad 10372', 'Descripción de la actividad 10372', '2014-07-23', '2014-09-09', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10373, 'Actividad 10373', 'Descripción de la actividad 10373', '2012-06-27', '2012-08-02', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10374, 'Actividad 10374', 'Descripción de la actividad 10374', '2015-02-20', '2015-03-06', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10375, 'Actividad 10375', 'Descripción de la actividad 10375', '2016-09-17', '2016-11-09', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10376, 'Actividad 10376', 'Descripción de la actividad 10376', '2021-12-17', '2022-01-09', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10377, 'Actividad 10377', 'Descripción de la actividad 10377', '2017-07-01', '2017-08-11', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10378, 'Actividad 10378', 'Descripción de la actividad 10378', '2016-07-13', '2016-08-08', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10379, 'Actividad 10379', 'Descripción de la actividad 10379', '2012-04-19', '2012-05-20', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10380, 'Actividad 10380', 'Descripción de la actividad 10380', '2018-01-10', '2018-01-19', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10381, 'Actividad 10381', 'Descripción de la actividad 10381', '2013-05-01', '2013-05-29', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10382, 'Actividad 10382', 'Descripción de la actividad 10382', '2020-12-13', '2020-12-30', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10383, 'Actividad 10383', 'Descripción de la actividad 10383', '2015-05-06', '2015-07-04', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10384, 'Actividad 10384', 'Descripción de la actividad 10384', '2020-05-27', '2020-06-13', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10385, 'Actividad 10385', 'Descripción de la actividad 10385', '2018-03-26', '2018-04-12', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10386, 'Actividad 10386', 'Descripción de la actividad 10386', '2019-11-14', '2019-12-30', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10387, 'Actividad 10387', 'Descripción de la actividad 10387', '2012-09-18', '2012-11-15', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10388, 'Actividad 10388', 'Descripción de la actividad 10388', '2012-07-08', '2012-08-25', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10389, 'Actividad 10389', 'Descripción de la actividad 10389', '2021-05-09', '2021-06-05', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10390, 'Actividad 10390', 'Descripción de la actividad 10390', '2013-04-11', '2013-05-03', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10391, 'Actividad 10391', 'Descripción de la actividad 10391', '2016-06-11', '2016-07-04', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10392, 'Actividad 10392', 'Descripción de la actividad 10392', '2011-05-08', '2011-06-10', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10393, 'Actividad 10393', 'Descripción de la actividad 10393', '2016-03-05', '2016-05-02', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10394, 'Actividad 10394', 'Descripción de la actividad 10394', '2019-12-15', '2019-12-23', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10395, 'Actividad 10395', 'Descripción de la actividad 10395', '2018-10-28', '2018-12-05', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10396, 'Actividad 10396', 'Descripción de la actividad 10396', '2012-06-08', '2012-07-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10397, 'Actividad 10397', 'Descripción de la actividad 10397', '2021-01-18', '2021-02-15', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10398, 'Actividad 10398', 'Descripción de la actividad 10398', '2014-07-13', '2014-08-11', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10399, 'Actividad 10399', 'Descripción de la actividad 10399', '2014-09-10', '2014-10-03', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10400, 'Actividad 10400', 'Descripción de la actividad 10400', '2014-04-13', '2014-05-20', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10401, 'Actividad 10401', 'Descripción de la actividad 10401', '2016-08-21', '2016-10-15', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10402, 'Actividad 10402', 'Descripción de la actividad 10402', '2011-11-13', '2011-12-31', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10403, 'Actividad 10403', 'Descripción de la actividad 10403', '2017-04-11', '2017-05-16', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10404, 'Actividad 10404', 'Descripción de la actividad 10404', '2016-11-30', '2016-12-23', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10405, 'Actividad 10405', 'Descripción de la actividad 10405', '2014-04-14', '2014-04-21', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10406, 'Actividad 10406', 'Descripción de la actividad 10406', '2018-07-09', '2018-08-06', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10407, 'Actividad 10407', 'Descripción de la actividad 10407', '2011-09-26', '2011-10-15', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10408, 'Actividad 10408', 'Descripción de la actividad 10408', '2011-01-16', '2011-02-18', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10409, 'Actividad 10409', 'Descripción de la actividad 10409', '2014-11-16', '2014-12-05', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10410, 'Actividad 10410', 'Descripción de la actividad 10410', '2020-10-08', '2020-12-06', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10411, 'Actividad 10411', 'Descripción de la actividad 10411', '2013-01-17', '2013-02-18', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10412, 'Actividad 10412', 'Descripción de la actividad 10412', '2017-04-30', '2017-06-03', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10413, 'Actividad 10413', 'Descripción de la actividad 10413', '2012-01-10', '2012-01-28', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10414, 'Actividad 10414', 'Descripción de la actividad 10414', '2011-04-18', '2011-06-12', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10415, 'Actividad 10415', 'Descripción de la actividad 10415', '2018-02-25', '2018-04-23', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10416, 'Actividad 10416', 'Descripción de la actividad 10416', '2014-11-05', '2014-11-13', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10417, 'Actividad 10417', 'Descripción de la actividad 10417', '2013-02-15', '2013-03-23', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10418, 'Actividad 10418', 'Descripción de la actividad 10418', '2012-02-11', '2012-03-14', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10419, 'Actividad 10419', 'Descripción de la actividad 10419', '2015-03-12', '2015-05-04', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10420, 'Actividad 10420', 'Descripción de la actividad 10420', '2015-12-26', '2016-01-21', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10421, 'Actividad 10421', 'Descripción de la actividad 10421', '2012-06-10', '2012-07-22', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10422, 'Actividad 10422', 'Descripción de la actividad 10422', '2019-09-01', '2019-09-10', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10423, 'Actividad 10423', 'Descripción de la actividad 10423', '2019-03-02', '2019-03-12', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10424, 'Actividad 10424', 'Descripción de la actividad 10424', '2011-03-02', '2011-04-05', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10425, 'Actividad 10425', 'Descripción de la actividad 10425', '2016-11-17', '2016-12-27', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10426, 'Actividad 10426', 'Descripción de la actividad 10426', '2021-08-07', '2021-09-29', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10427, 'Actividad 10427', 'Descripción de la actividad 10427', '2015-08-27', '2015-09-15', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10428, 'Actividad 10428', 'Descripción de la actividad 10428', '2016-11-13', '2016-12-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10429, 'Actividad 10429', 'Descripción de la actividad 10429', '2020-11-15', '2020-12-13', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10430, 'Actividad 10430', 'Descripción de la actividad 10430', '2021-01-31', '2021-04-01', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10431, 'Actividad 10431', 'Descripción de la actividad 10431', '2018-08-31', '2018-10-30', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10432, 'Actividad 10432', 'Descripción de la actividad 10432', '2019-07-05', '2019-07-13', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10433, 'Actividad 10433', 'Descripción de la actividad 10433', '2012-03-16', '2012-05-04', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10434, 'Actividad 10434', 'Descripción de la actividad 10434', '2018-11-27', '2018-12-13', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10435, 'Actividad 10435', 'Descripción de la actividad 10435', '2021-02-08', '2021-04-07', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10436, 'Actividad 10436', 'Descripción de la actividad 10436', '2011-12-21', '2012-01-10', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10437, 'Actividad 10437', 'Descripción de la actividad 10437', '2017-04-17', '2017-04-25', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10438, 'Actividad 10438', 'Descripción de la actividad 10438', '2011-05-08', '2011-06-13', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10439, 'Actividad 10439', 'Descripción de la actividad 10439', '2010-02-12', '2010-04-08', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10440, 'Actividad 10440', 'Descripción de la actividad 10440', '2015-12-17', '2016-01-10', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10441, 'Actividad 10441', 'Descripción de la actividad 10441', '2022-10-01', '2022-11-28', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10442, 'Actividad 10442', 'Descripción de la actividad 10442', '2017-01-24', '2017-03-21', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10443, 'Actividad 10443', 'Descripción de la actividad 10443', '2012-10-20', '2012-12-07', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10444, 'Actividad 10444', 'Descripción de la actividad 10444', '2015-10-19', '2015-11-18', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10445, 'Actividad 10445', 'Descripción de la actividad 10445', '2018-07-19', '2018-08-12', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10446, 'Actividad 10446', 'Descripción de la actividad 10446', '2013-11-28', '2013-12-05', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10447, 'Actividad 10447', 'Descripción de la actividad 10447', '2013-11-19', '2013-12-03', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10448, 'Actividad 10448', 'Descripción de la actividad 10448', '2013-08-13', '2013-09-06', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10449, 'Actividad 10449', 'Descripción de la actividad 10449', '2016-11-26', '2017-01-22', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10450, 'Actividad 10450', 'Descripción de la actividad 10450', '2011-09-30', '2011-10-09', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10451, 'Actividad 10451', 'Descripción de la actividad 10451', '2021-07-09', '2021-09-02', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10452, 'Actividad 10452', 'Descripción de la actividad 10452', '2017-03-30', '2017-04-06', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10453, 'Actividad 10453', 'Descripción de la actividad 10453', '2017-09-16', '2017-10-22', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10454, 'Actividad 10454', 'Descripción de la actividad 10454', '2022-02-14', '2022-03-22', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10455, 'Actividad 10455', 'Descripción de la actividad 10455', '2014-12-02', '2015-01-07', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10456, 'Actividad 10456', 'Descripción de la actividad 10456', '2012-05-17', '2012-05-31', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10457, 'Actividad 10457', 'Descripción de la actividad 10457', '2010-01-03', '2010-02-06', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10458, 'Actividad 10458', 'Descripción de la actividad 10458', '2022-02-04', '2022-03-01', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10459, 'Actividad 10459', 'Descripción de la actividad 10459', '2022-03-26', '2022-04-06', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10460, 'Actividad 10460', 'Descripción de la actividad 10460', '2016-05-04', '2016-06-27', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10461, 'Actividad 10461', 'Descripción de la actividad 10461', '2011-06-15', '2011-06-29', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10462, 'Actividad 10462', 'Descripción de la actividad 10462', '2014-10-21', '2014-10-31', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10463, 'Actividad 10463', 'Descripción de la actividad 10463', '2016-09-20', '2016-11-08', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10464, 'Actividad 10464', 'Descripción de la actividad 10464', '2013-04-04', '2013-05-14', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10465, 'Actividad 10465', 'Descripción de la actividad 10465', '2012-11-14', '2012-12-08', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10466, 'Actividad 10466', 'Descripción de la actividad 10466', '2020-10-14', '2020-11-06', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10467, 'Actividad 10467', 'Descripción de la actividad 10467', '2011-05-24', '2011-06-08', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10468, 'Actividad 10468', 'Descripción de la actividad 10468', '2015-03-27', '2015-05-12', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10469, 'Actividad 10469', 'Descripción de la actividad 10469', '2015-03-27', '2015-05-26', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10470, 'Actividad 10470', 'Descripción de la actividad 10470', '2012-02-11', '2012-03-13', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10471, 'Actividad 10471', 'Descripción de la actividad 10471', '2010-06-10', '2010-06-27', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10472, 'Actividad 10472', 'Descripción de la actividad 10472', '2016-09-09', '2016-09-15', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10473, 'Actividad 10473', 'Descripción de la actividad 10473', '2014-10-08', '2014-11-06', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10474, 'Actividad 10474', 'Descripción de la actividad 10474', '2022-07-16', '2022-08-23', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10475, 'Actividad 10475', 'Descripción de la actividad 10475', '2022-08-25', '2022-10-19', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10476, 'Actividad 10476', 'Descripción de la actividad 10476', '2021-11-12', '2021-12-02', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10477, 'Actividad 10477', 'Descripción de la actividad 10477', '2017-08-16', '2017-09-24', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10478, 'Actividad 10478', 'Descripción de la actividad 10478', '2022-03-29', '2022-04-20', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10479, 'Actividad 10479', 'Descripción de la actividad 10479', '2015-05-17', '2015-05-22', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10480, 'Actividad 10480', 'Descripción de la actividad 10480', '2012-05-01', '2012-05-15', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10481, 'Actividad 10481', 'Descripción de la actividad 10481', '2012-05-17', '2012-06-01', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10482, 'Actividad 10482', 'Descripción de la actividad 10482', '2011-12-12', '2011-12-23', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10483, 'Actividad 10483', 'Descripción de la actividad 10483', '2021-04-14', '2021-05-09', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10484, 'Actividad 10484', 'Descripción de la actividad 10484', '2019-02-03', '2019-03-09', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10485, 'Actividad 10485', 'Descripción de la actividad 10485', '2011-09-07', '2011-11-06', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10486, 'Actividad 10486', 'Descripción de la actividad 10486', '2013-09-09', '2013-09-26', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10487, 'Actividad 10487', 'Descripción de la actividad 10487', '2022-04-02', '2022-05-03', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10488, 'Actividad 10488', 'Descripción de la actividad 10488', '2015-10-27', '2015-12-13', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10489, 'Actividad 10489', 'Descripción de la actividad 10489', '2020-12-21', '2021-01-28', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10490, 'Actividad 10490', 'Descripción de la actividad 10490', '2019-02-27', '2019-04-27', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10491, 'Actividad 10491', 'Descripción de la actividad 10491', '2010-10-06', '2010-11-26', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10492, 'Actividad 10492', 'Descripción de la actividad 10492', '2015-07-18', '2015-07-24', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10493, 'Actividad 10493', 'Descripción de la actividad 10493', '2014-01-23', '2014-01-29', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10494, 'Actividad 10494', 'Descripción de la actividad 10494', '2012-12-26', '2013-02-11', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10495, 'Actividad 10495', 'Descripción de la actividad 10495', '2020-02-11', '2020-03-11', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10496, 'Actividad 10496', 'Descripción de la actividad 10496', '2018-01-23', '2018-02-02', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10497, 'Actividad 10497', 'Descripción de la actividad 10497', '2011-09-10', '2011-09-30', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10498, 'Actividad 10498', 'Descripción de la actividad 10498', '2019-11-04', '2019-11-11', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10499, 'Actividad 10499', 'Descripción de la actividad 10499', '2019-01-21', '2019-03-01', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10500, 'Actividad 10500', 'Descripción de la actividad 10500', '2016-06-28', '2016-08-11', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10501, 'Actividad 10501', 'Descripción de la actividad 10501', '2016-01-18', '2016-01-28', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10502, 'Actividad 10502', 'Descripción de la actividad 10502', '2014-05-30', '2014-06-23', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10503, 'Actividad 10503', 'Descripción de la actividad 10503', '2015-10-29', '2015-12-06', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10504, 'Actividad 10504', 'Descripción de la actividad 10504', '2014-11-30', '2015-01-25', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10505, 'Actividad 10505', 'Descripción de la actividad 10505', '2016-05-15', '2016-05-25', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10506, 'Actividad 10506', 'Descripción de la actividad 10506', '2018-07-18', '2018-08-23', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10507, 'Actividad 10507', 'Descripción de la actividad 10507', '2011-07-07', '2011-08-31', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10508, 'Actividad 10508', 'Descripción de la actividad 10508', '2016-07-19', '2016-09-14', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10509, 'Actividad 10509', 'Descripción de la actividad 10509', '2013-08-21', '2013-09-17', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10510, 'Actividad 10510', 'Descripción de la actividad 10510', '2018-05-22', '2018-07-20', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10511, 'Actividad 10511', 'Descripción de la actividad 10511', '2010-05-19', '2010-06-02', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10512, 'Actividad 10512', 'Descripción de la actividad 10512', '2015-10-07', '2015-10-19', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10513, 'Actividad 10513', 'Descripción de la actividad 10513', '2015-01-05', '2015-01-13', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10514, 'Actividad 10514', 'Descripción de la actividad 10514', '2020-08-18', '2020-09-14', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10515, 'Actividad 10515', 'Descripción de la actividad 10515', '2013-04-23', '2013-06-06', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10516, 'Actividad 10516', 'Descripción de la actividad 10516', '2011-12-07', '2012-01-16', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10517, 'Actividad 10517', 'Descripción de la actividad 10517', '2015-07-14', '2015-09-04', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10518, 'Actividad 10518', 'Descripción de la actividad 10518', '2022-03-29', '2022-05-15', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10519, 'Actividad 10519', 'Descripción de la actividad 10519', '2014-08-09', '2014-10-02', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10520, 'Actividad 10520', 'Descripción de la actividad 10520', '2020-08-08', '2020-09-11', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10521, 'Actividad 10521', 'Descripción de la actividad 10521', '2019-06-15', '2019-06-23', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10522, 'Actividad 10522', 'Descripción de la actividad 10522', '2012-06-09', '2012-07-24', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10523, 'Actividad 10523', 'Descripción de la actividad 10523', '2021-05-15', '2021-06-09', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10524, 'Actividad 10524', 'Descripción de la actividad 10524', '2011-08-18', '2011-09-18', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10525, 'Actividad 10525', 'Descripción de la actividad 10525', '2018-08-20', '2018-09-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10526, 'Actividad 10526', 'Descripción de la actividad 10526', '2019-01-04', '2019-03-05', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10527, 'Actividad 10527', 'Descripción de la actividad 10527', '2018-07-20', '2018-09-15', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10528, 'Actividad 10528', 'Descripción de la actividad 10528', '2018-09-14', '2018-10-11', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10529, 'Actividad 10529', 'Descripción de la actividad 10529', '2022-03-14', '2022-04-11', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10530, 'Actividad 10530', 'Descripción de la actividad 10530', '2018-06-16', '2018-07-27', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10531, 'Actividad 10531', 'Descripción de la actividad 10531', '2015-04-10', '2015-05-29', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10532, 'Actividad 10532', 'Descripción de la actividad 10532', '2010-04-15', '2010-05-26', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10533, 'Actividad 10533', 'Descripción de la actividad 10533', '2010-09-20', '2010-11-07', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10534, 'Actividad 10534', 'Descripción de la actividad 10534', '2011-05-23', '2011-07-17', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10535, 'Actividad 10535', 'Descripción de la actividad 10535', '2018-11-28', '2018-12-03', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10536, 'Actividad 10536', 'Descripción de la actividad 10536', '2010-10-02', '2010-11-14', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10537, 'Actividad 10537', 'Descripción de la actividad 10537', '2021-06-10', '2021-08-08', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10538, 'Actividad 10538', 'Descripción de la actividad 10538', '2011-02-21', '2011-04-03', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10539, 'Actividad 10539', 'Descripción de la actividad 10539', '2018-07-28', '2018-09-07', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10540, 'Actividad 10540', 'Descripción de la actividad 10540', '2019-10-22', '2019-11-27', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10541, 'Actividad 10541', 'Descripción de la actividad 10541', '2012-08-29', '2012-09-27', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10542, 'Actividad 10542', 'Descripción de la actividad 10542', '2018-02-20', '2018-03-08', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10543, 'Actividad 10543', 'Descripción de la actividad 10543', '2018-03-29', '2018-04-05', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10544, 'Actividad 10544', 'Descripción de la actividad 10544', '2017-06-02', '2017-06-16', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10545, 'Actividad 10545', 'Descripción de la actividad 10545', '2010-03-15', '2010-04-02', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10546, 'Actividad 10546', 'Descripción de la actividad 10546', '2019-08-18', '2019-08-31', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10547, 'Actividad 10547', 'Descripción de la actividad 10547', '2018-11-12', '2018-11-22', 8003);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10548, 'Actividad 10548', 'Descripción de la actividad 10548', '2010-10-12', '2010-11-04', 8004);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10549, 'Actividad 10549', 'Descripción de la actividad 10549', '2015-04-25', '2015-06-06', 8005);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10550, 'Actividad 10550', 'Descripción de la actividad 10550', '2012-03-17', '2012-04-24', 8006);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10551, 'Actividad 10551', 'Descripción de la actividad 10551', '2011-08-29', '2011-10-13', 8007);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10552, 'Actividad 10552', 'Descripción de la actividad 10552', '2018-07-04', '2018-08-24', 8008);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10553, 'Actividad 10553', 'Descripción de la actividad 10553', '2021-09-18', '2021-10-11', 8009);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10554, 'Actividad 10554', 'Descripción de la actividad 10554', '2021-09-28', '2021-10-16', 8010);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10555, 'Actividad 10555', 'Descripción de la actividad 10555', '2020-07-05', '2020-08-26', 8011);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10556, 'Actividad 10556', 'Descripción de la actividad 10556', '2014-10-30', '2014-12-11', 8012);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10557, 'Actividad 10557', 'Descripción de la actividad 10557', '2017-09-12', '2017-10-06', 8013);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10558, 'Actividad 10558', 'Descripción de la actividad 10558', '2018-02-12', '2018-04-10', 8014);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10559, 'Actividad 10559', 'Descripción de la actividad 10559', '2017-03-29', '2017-04-27', 8015);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10560, 'Actividad 10560', 'Descripción de la actividad 10560', '2011-03-06', '2011-04-14', 8000);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10561, 'Actividad 10561', 'Descripción de la actividad 10561', '2010-03-20', '2010-04-28', 8001);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10562, 'Actividad 10562', 'Descripción de la actividad 10562', '2015-03-14', '2015-04-26', 8002);
+
+INSERT INTO activity (idActivity, name, description, startDate, endDate, idCosts) VALUES
+(10563, 'Actividad 10563', 'Descripción de la actividad 10563', '2019-09-16', '2019-11-06', 8003);
