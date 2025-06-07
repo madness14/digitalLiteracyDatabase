@@ -117,22 +117,22 @@ INSERT INTO activityCosts (idCosts, humanResourcesCost, materialCost, financialC
 
 -- 15. PROJECTS (Depends on members and costs)
 INSERT INTO project (idProject, name, operationStatus, startDate, endDate, description, responsible) VALUES
-(9000, 'Literacidad Digital: Habilidades Básicas', 'En progreso', '2025-04-06', '2025-05-06', 'Proyecto para enseñar habilidades digitales básicas', 5000),
-(9001, 'Literacidad Digital: Seguridad Online', 'En progreso', '2025-06-30', '2025-07-30', 'Proyecto sobre seguridad en internet', 5003),
-(9002, 'Literacidad Digital: Herramientas Colaborativas', 'En progreso', '2025-03-22', '2025-04-21', 'Proyecto para enseñar herramientas colaborativas', 5001),
-(9003, 'Literacidad Digital: Comunicación Efectiva', 'En progreso', '2025-02-19', '2025-03-21', 'Proyecto para mejorar comunicación digital', 5000),
-(9004, 'Literacidad Digital: Inclusión Tecnológica', 'Planificado', '2025-08-24', '2025-09-23', 'Proyecto para inclusión digital', 5005),
-(9005, 'Literacidad Digital: Educación Remota', 'Planificado', '2025-07-17', '2025-08-16', 'Proyecto para educación a distancia', 5002),
-(9006, 'Literacidad Digital: Ciudadanía Digital', 'En progreso', '2025-03-15', '2025-04-14', 'Proyecto sobre ciudadanía digital', 5006),
-(9007, 'Literacidad Digital: Privacidad de Datos', 'En progreso', '2025-02-27', '2025-03-29', 'Proyecto sobre protección de datos', 5002),
-(9008, 'Literacidad Digital: Sostenibilidad Tecnológica', 'Completado', '2025-02-04', '2025-03-06', 'Proyecto sobre tecnología sostenible', 5007),
-(9009, 'Literacidad Digital: Recursos Digitales', 'En progreso', '2025-03-19', '2025-04-18', 'Proyecto sobre recursos digitales', 5007),
-(9010, 'Literacidad Digital: Alfabetización Mediática', 'Completado', '2025-01-17', '2025-02-16', 'Proyecto sobre alfabetización mediática', 5004),
-(9011, 'Literacidad Digital: Innovación Social', 'Planificado', '2025-05-16', '2025-06-15', 'Proyecto sobre innovación social', 5007),
-(9012, 'Literacidad Digital: Adultos Mayores', 'En progreso', '2025-02-02', '2025-03-04', 'Proyecto para adultos mayores', 5008),
-(9013, 'Literacidad Digital: Comunidades Rurales', 'Planificado', '2025-06-14', '2025-07-14', 'Proyecto para comunidades rurales', 5009),
-(9014, 'Literacidad Digital: Emprendimiento Digital', 'Planificado', '2025-09-04', '2025-10-04', 'Proyecto para emprendimiento digital', 5008),
-(9015, 'Literacidad Digital: Educación Continua', 'En progreso', '2025-02-05', '2025-03-07', 'Proyecto para educación continua', 5010);
+(9000, 'Literacidad Digital: Habilidades Básicas', 65, '2025-04-06', '2025-05-06', 'Proyecto para enseñar habilidades digitales básicas', 5000),
+(9001, 'Literacidad Digital: Seguridad Online', 30, '2025-06-30', '2025-07-30', 'Proyecto sobre seguridad en internet', 5003),
+(9002, 'Literacidad Digital: Herramientas Colaborativas', 75, '2025-03-22', '2025-04-21', 'Proyecto para enseñar herramientas colaborativas', 5001),
+(9003, 'Literacidad Digital: Comunicación Efectiva', 80, '2025-02-19', '2025-03-21', 'Proyecto para mejorar comunicación digital', 5000),
+(9004, 'Literacidad Digital: Inclusión Tecnológica', 10, '2025-08-24', '2025-09-23', 'Proyecto para inclusión digital', 5005),
+(9005, 'Literacidad Digital: Educación Remota', 5, '2025-07-17', '2025-08-16', 'Proyecto para educación a distancia', 5002),
+(9006, 'Literacidad Digital: Ciudadanía Digital', 90, '2025-03-15', '2025-04-14', 'Proyecto sobre ciudadanía digital', 5006),
+(9007, 'Literacidad Digital: Privacidad de Datos', 95, '2025-02-27', '2025-03-29', 'Proyecto sobre protección de datos', 5002),
+(9008, 'Literacidad Digital: Sostenibilidad Tecnológica', 100, '2025-02-04', '2025-03-06', 'Proyecto sobre tecnología sostenible', 5007),
+(9009, 'Literacidad Digital: Recursos Digitales', 70, '2025-03-19', '2025-04-18', 'Proyecto sobre recursos digitales', 5007),
+(9010, 'Literacidad Digital: Alfabetización Mediática', 100, '2025-01-17', '2025-02-16', 'Proyecto sobre alfabetización mediática', 5004),
+(9011, 'Literacidad Digital: Innovación Social', 0, '2025-05-16', '2025-06-15', 'Proyecto sobre innovación social', 5007),
+(9012, 'Literacidad Digital: Adultos Mayores', 85, '2025-02-02', '2025-03-04', 'Proyecto para adultos mayores', 5008),
+(9013, 'Literacidad Digital: Comunidades Rurales', 0, '2025-06-14', '2025-07-14', 'Proyecto para comunidades rurales', 5009),
+(9014, 'Literacidad Digital: Emprendimiento Digital', 0, '2025-09-04', '2025-10-04', 'Proyecto para emprendimiento digital', 5008),
+(9015, 'Literacidad Digital: Educación Continua', 55, '2025-02-05', '2025-03-07', 'Proyecto para educación continua', 5010);
 
 -- 16. ORG-PROJECT RELATIONSHIP
 INSERT INTO orgProject (idOrganization, idProject) VALUES
