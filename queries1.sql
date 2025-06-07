@@ -97,42 +97,42 @@ INSERT INTO transactionResources (idTransaction, idResources) VALUES
 (6003, 7003);
 
 -- 14. ACTIVITY COSTS (Table without dependencies)
-INSERT INTO activityCosts (idCosts, humanResourcesCost, materialCost, financialCost, totalCost) VALUES
-(8000, 1372.00, 2396.00, 1910.00, 5678.00),
-(8001, 3263.00, 1110.00, 4746.00, 9119.00),
-(8002, 2441.00, 816.00, 6835.00, 10092.00),
-(8003, 1980.00, 2743.00, 6404.00, 11127.00),
-(8004, 4241.00, 1722.00, 1693.00, 7656.00),
-(8005, 4334.00, 804.00, 3424.00, 8572.00),
-(8006, 4407.00, 2479.00, 2523.00, 9409.00),
-(8007, 1792.00, 1100.00, 3676.00, 6568.00),
-(8008, 1637.00, 1612.00, 2046.00, 5295.00),
-(8009, 4045.00, 1899.00, 6091.00, 12035.00),
-(8010, 2485.00, 2102.00, 1172.00, 5765.00),
-(8011, 4651.00, 1391.00, 2108.00, 8150.00),
-(8012, 2637.00, 732.00, 3886.00, 7255.00),
-(8013, 4708.00, 1847.00, 6666.00, 13221.00),
-(8014, 4072.00, 2083.00, 4466.00, 10621.00),
-(8015, 3421.00, 744.00, 2663.00, 6828.00);
+INSERT INTO activityCosts (idCosts, humanResourcesCost, materialCost, financialCost) VALUES
+(8000, 1372.00, 2396.00, 1910.00),
+(8001, 3263.00, 1110.00, 4746.00),
+(8002, 2441.00, 816.00, 6835.00),
+(8003, 1980.00, 2743.00, 6404.00),
+(8004, 4241.00, 1722.00, 1693.00),
+(8005, 4334.00, 804.00, 3424.00),
+(8006, 4407.00, 2479.00, 2523.00),
+(8007, 1792.00, 1100.00, 3676.00),
+(8008, 1637.00, 1612.00, 2046.00),
+(8009, 4045.00, 1899.00, 6091.00),
+(8010, 2485.00, 2102.00, 1172.00),
+(8011, 4651.00, 1391.00, 2108.00),
+(8012, 2637.00, 732.00, 3886.00),
+(8013, 4708.00, 1847.00, 6666.00),
+(8014, 4072.00, 2083.00, 4466.00),
+(8015, 3421.00, 744.00, 2663.00);
 
 -- 15. PROJECTS (Depends on members and costs)
 INSERT INTO project (idProject, name, operationStatus, startDate, endDate, description, responsible) VALUES
-(9000, 'Literacidad Digital: Habilidades Básicas', 65, '2025-04-06', '2025-05-06', 'Proyecto para enseñar habilidades digitales básicas', 5000),
-(9001, 'Literacidad Digital: Seguridad Online', 30, '2025-06-30', '2025-07-30', 'Proyecto sobre seguridad en internet', 5003),
-(9002, 'Literacidad Digital: Herramientas Colaborativas', 75, '2025-03-22', '2025-04-21', 'Proyecto para enseñar herramientas colaborativas', 5001),
-(9003, 'Literacidad Digital: Comunicación Efectiva', 80, '2025-02-19', '2025-03-21', 'Proyecto para mejorar comunicación digital', 5000),
-(9004, 'Literacidad Digital: Inclusión Tecnológica', 10, '2025-08-24', '2025-09-23', 'Proyecto para inclusión digital', 5005),
-(9005, 'Literacidad Digital: Educación Remota', 5, '2025-07-17', '2025-08-16', 'Proyecto para educación a distancia', 5002),
-(9006, 'Literacidad Digital: Ciudadanía Digital', 90, '2025-03-15', '2025-04-14', 'Proyecto sobre ciudadanía digital', 5006),
-(9007, 'Literacidad Digital: Privacidad de Datos', 95, '2025-02-27', '2025-03-29', 'Proyecto sobre protección de datos', 5002),
-(9008, 'Literacidad Digital: Sostenibilidad Tecnológica', 100, '2025-02-04', '2025-03-06', 'Proyecto sobre tecnología sostenible', 5007),
-(9009, 'Literacidad Digital: Recursos Digitales', 70, '2025-03-19', '2025-04-18', 'Proyecto sobre recursos digitales', 5007),
-(9010, 'Literacidad Digital: Alfabetización Mediática', 100, '2025-01-17', '2025-02-16', 'Proyecto sobre alfabetización mediática', 5004),
-(9011, 'Literacidad Digital: Innovación Social', 0, '2025-05-16', '2025-06-15', 'Proyecto sobre innovación social', 5007),
-(9012, 'Literacidad Digital: Adultos Mayores', 85, '2025-02-02', '2025-03-04', 'Proyecto para adultos mayores', 5008),
-(9013, 'Literacidad Digital: Comunidades Rurales', 0, '2025-06-14', '2025-07-14', 'Proyecto para comunidades rurales', 5009),
-(9014, 'Literacidad Digital: Emprendimiento Digital', 0, '2025-09-04', '2025-10-04', 'Proyecto para emprendimiento digital', 5008),
-(9015, 'Literacidad Digital: Educación Continua', 55, '2025-02-05', '2025-03-07', 'Proyecto para educación continua', 5010);
+(9000, 'Literacidad Digital: Habilidades Básicas', 65.00, '2025-04-06', '2025-05-06', 'Proyecto para enseñar habilidades digitales básicas', 5000),
+(9001, 'Literacidad Digital: Seguridad Online', 30.00, '2025-06-30', '2025-07-30', 'Proyecto sobre seguridad en internet', 5003),
+(9002, 'Literacidad Digital: Herramientas Colaborativas', 75.00, '2025-03-22', '2025-04-21', 'Proyecto para enseñar herramientas colaborativas', 5001),
+(9003, 'Literacidad Digital: Comunicación Efectiva', 80.00, '2025-02-19', '2025-03-21', 'Proyecto para mejorar comunicación digital', 5000),
+(9004, 'Literacidad Digital: Inclusión Tecnológica', 10.00, '2025-08-24', '2025-09-23', 'Proyecto para inclusión digital', 5005),
+(9005, 'Literacidad Digital: Educación Remota', 5.00, '2025-07-17', '2025-08-16', 'Proyecto para educación a distancia', 5002),
+(9006, 'Literacidad Digital: Ciudadanía Digital', 90.00, '2025-03-15', '2025-04-14', 'Proyecto sobre ciudadanía digital', 5006),
+(9007, 'Literacidad Digital: Privacidad de Datos', 95.00, '2025-02-27', '2025-03-29', 'Proyecto sobre protección de datos', 5002),
+(9008, 'Literacidad Digital: Sostenibilidad Tecnológica', 100.00, '2025-02-04', '2025-03-06', 'Proyecto sobre tecnología sostenible', 5007),
+(9009, 'Literacidad Digital: Recursos Digitales', 70.00, '2025-03-19', '2025-04-18', 'Proyecto sobre recursos digitales', 5007),
+(9010, 'Literacidad Digital: Alfabetización Mediática', 100.00, '2025-01-17', '2025-02-16', 'Proyecto sobre alfabetización mediática', 5004),
+(9011, 'Literacidad Digital: Innovación Social', 0.00, '2025-05-16', '2025-06-15', 'Proyecto sobre innovación social', 5007),
+(9012, 'Literacidad Digital: Adultos Mayores', 85.00, '2025-02-02', '2025-03-04', 'Proyecto para adultos mayores', 5008),
+(9013, 'Literacidad Digital: Comunidades Rurales', 0.00, '2025-06-14', '2025-07-14', 'Proyecto para comunidades rurales', 5009),
+(9014, 'Literacidad Digital: Emprendimiento Digital', 0.00, '2025-09-04', '2025-10-04', 'Proyecto para emprendimiento digital', 5008),
+(9015, 'Literacidad Digital: Educación Continua', 55.00, '2025-02-05', '2025-03-07', 'Proyecto para educación continua', 5010);
 
 -- 16. ORG-PROJECT RELATIONSHIP
 INSERT INTO orgProject (idOrganization, idProject) VALUES
