@@ -358,8 +358,184 @@ INSERT INTO state (idState, idCountry, name, population) VALUES
 (310149, 212010, 'East Darfur', 1300000),
 (310150, 212010, 'North Kordofan', 2400000);
 
+-- Spain (idCountry: 213100)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320001, 213100, 'Andalusia', 8427000),
+(320002, 213100, 'Catalonia', 7675000),
+(320003, 213100, 'Community of Madrid', 6779000),
+(320004, 213100, 'Valencian Community', 5058000),
+(320005, 213100, 'Galicia', 2702000),
+(320006, 213100, 'Castile and León', 2399000),
+(320007, 213100, 'Basque Country', 2208000),
+(320008, 213100, 'Castilla-La Mancha', 2045000),
+(320009, 213100, 'Canary Islands', 2153000),
+(320010, 213100, 'Region of Murcia', 1494000),
+(320011, 213100, 'Aragon', 1319000),
+(320012, 213100, 'Extremadura', 1065000),
+(320013, 213100, 'Balearic Islands', 1172000),
+(320014, 213100, 'Principality of Asturias', 1019000),
+(320015, 213100, 'Navarre', 661000);
 
+-- Germany (idCountry: 213200)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320016, 213200, 'North Rhine-Westphalia', 17930000),
+(320017, 213200, 'Bavaria', 13120000),
+(320018, 213200, 'Baden-Württemberg', 11070000),
+(320019, 213200, 'Lower Saxony', 7996000),
+(320020, 213200, 'Hesse', 6266000),
+(320021, 213200, 'Rhineland-Palatinate', 4085000),
+(320022, 213200, 'Berlin', 3645000),
+(320023, 213200, 'Saxony', 4078000),
+(320024, 213200, 'Schleswig-Holstein', 2904000),
+(320025, 213200, 'Brandenburg', 2512000),
+(320026, 213200, 'Saxony-Anhalt', 2195000),
+(320027, 213200, 'Thuringia', 2138000),
+(320028, 213200, 'Hamburg', 1841000),
+(320029, 213200, 'Mecklenburg-Vorpommern', 1610000),
+(320030, 213200, 'Saarland', 986000);
 
+-- France (idCountry: 213300)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320031, 213300, 'Île-de-France', 12290000),
+(320032, 213300, 'Auvergne-Rhône-Alpes', 8066000),
+(320033, 213300, 'Nouvelle-Aquitaine', 6003000),
+(320034, 213300, 'Occitanie', 5934000),
+(320035, 213300, 'Hauts-de-France', 6006000),
+(320036, 213300, 'Provence-Alpes-Côte d''Azur', 5076000),
+(320037, 213300, 'Grand Est', 5552000),
+(320038, 213300, 'Pays de la Loire', 3817000),
+(320039, 213300, 'Brittany', 3353000),
+(320040, 213300, 'Centre-Val de Loire', 2572000),
+(320041, 213300, 'Normandy', 3322000),
+(320042, 213300, 'Bourgogne-Franche-Comté', 2806000),
+(320043, 213300, 'Corsica', 340000),
+(320044, 213300, 'Martinique', 376000),
+(320045, 213300, 'Réunion', 859000);
 
+-- Italy (idCountry: 213400)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320046, 213400, 'Lombardy', 10060000),
+(320047, 213400, 'Lazio', 5879000),
+(320048, 213400, 'Campania', 5802000),
+(320049, 213400, 'Sicily', 5000000),
+(320050, 213400, 'Veneto', 4906000),
+(320051, 213400, 'Emilia-Romagna', 4459000),
+(320052, 213400, 'Piedmont', 4356000),
+(320053, 213400, 'Apulia', 4029000),
+(320054, 213400, 'Tuscany', 3729000),
+(320055, 213400, 'Calabria', 1947000),
+(320056, 213400, 'Sardinia', 1634000),
+(320057, 213400, 'Liguria', 1551000),
+(320058, 213400, 'Marche', 1525000),
+(320059, 213400, 'Abruzzo', 1312000),
+(320060, 213400, 'Friuli-Venezia Giulia', 1215000);
+
+-- United Kingdom (idCountry: 213500)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320061, 213500, 'England', 56200000),
+(320062, 213500, 'Scotland', 5460000),
+(320063, 213500, 'Wales', 3150000),
+(320064, 213500, 'Northern Ireland', 1890000),
+(320065, 213500, 'Greater London', 8900000),
+(320066, 213500, 'West Midlands', 2930000),
+(320067, 213500, 'Greater Manchester', 2800000),
+(320068, 213500, 'West Yorkshire', 2300000),
+(320069, 213500, 'Kent', 1850000),
+(320070, 213500, 'Essex', 1850000),
+(320071, 213500, 'Merseyside', 1420000),
+(320072, 213500, 'Hampshire', 1900000),
+(320073, 213500, 'Lancashire', 1500000),
+(320074, 213500, 'Devon', 1200000),
+(320075, 213500, 'South Yorkshire', 1400000);
+
+-- Poland (idCountry: 213600)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320076, 213600, 'Masovian', 5400000),
+(320077, 213600, 'Silesian', 4500000),
+(320078, 213600, 'Greater Poland', 3500000),
+(320079, 213600, 'Lesser Poland', 3400000),
+(320080, 213600, 'Lower Silesian', 2900000),
+(320081, 213600, 'Łódź', 2500000),
+(320082, 213600, 'Pomeranian', 2300000),
+(320083, 213600, 'Lublin', 2100000),
+(320084, 213600, 'Podkarpackie', 2100000),
+(320085, 213600, 'Kuyavian-Pomeranian', 2100000),
+(320086, 213600, 'West Pomeranian', 1700000),
+(320087, 213600, 'Swietokrzyskie', 1250000),
+(320088, 213600, 'Warmian-Masurian', 1430000),
+(320089, 213600, 'Opole', 990000),
+(320090, 213600, 'Lubusz', 1010000);
+
+-- Ukraine (idCountry: 213700)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320091, 213700, 'Kyiv City', 2960000),
+(320092, 213700, 'Dnipropetrovsk', 3200000),
+(320093, 213700, 'Donetsk', 4200000),
+(320094, 213700, 'Kharkiv', 2700000),
+(320095, 213700, 'Lviv', 2500000),
+(320096, 213700, 'Odessa', 2400000),
+(320097, 213700, 'Zaporizhzhia', 1700000),
+(320098, 213700, 'Luhansk', 2100000),
+(320099, 213700, 'Kyiv Oblast', 1800000),
+(320100, 213700, 'Vinnytsia', 1560000),
+(320101, 213700, 'Poltava', 1400000),
+(320102, 213700, 'Ivano-Frankivsk', 1380000),
+(320103, 213700, 'Khmelnytskyi', 1270000),
+(320104, 213700, 'Zhytomyr', 1220000),
+(320105, 213700, 'Chernihiv', 1020000);
+
+-- Netherlands (idCountry: 213800)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320106, 213800, 'North Holland', 2850000),
+(320107, 213800, 'South Holland', 3700000),
+(320108, 213800, 'North Brabant', 2550000),
+(320109, 213800, 'Gelderland', 2080000),
+(320110, 213800, 'Utrecht', 1350000),
+(320111, 213800, 'Overijssel', 1160000),
+(320112, 213800, 'Limburg', 1110000),
+(320113, 213800, 'Friesland', 650000),
+(320114, 213800, 'Groningen', 586000),
+(320115, 213800, 'Drenthe', 493000),
+(320116, 213800, 'Flevoland', 423000),
+(320117, 213800, 'Zeeland', 383000),
+(320118, 213800, 'Bonaire', 20500),
+(320119, 213800, 'Saba', 1900),
+(320120, 213800, 'Sint Eustatius', 3100);
+
+-- Portugal (idCountry: 213900)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320121, 213900, 'Lisbon', 2280000),
+(320122, 213900, 'Porto', 1800000),
+(320123, 213900, 'Braga', 850000),
+(320124, 213900, 'Setúbal', 860000),
+(320125, 213900, 'Aveiro', 714000),
+(320126, 213900, 'Faro', 467000),
+(320127, 213900, 'Leiria', 470000),
+(320128, 213900, 'Coimbra', 430000),
+(320129, 213900, 'Madeira', 250000),
+(320130, 213900, 'Azores', 240000),
+(320131, 213900, 'Santarém', 450000),
+(320132, 213900, 'Viana do Castelo', 250000),
+(320133, 213900, 'Vila Real', 210000),
+(320134, 213900, 'Viseu', 380000),
+(320135, 213900, 'Guarda', 160000);
+
+-- Sweden (idCountry: 213010)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(320136, 213010, 'Stockholm', 2370000),
+(320137, 213010, 'Västra Götaland', 1720000),
+(320138, 213010, 'Skåne', 1370000),
+(320139, 213010, 'Uppsala', 380000),
+(320140, 213010, 'Östergötland', 460000),
+(320141, 213010, 'Jönköping', 360000),
+(320142, 213010, 'Norrbotten', 250000),
+(320143, 213010, 'Dalarna', 287000),
+(320144, 213010, 'Värmland', 280000),
+(320145, 213010, 'Västmanland', 270000),
+(320146, 213010, 'Halland', 330000),
+(320147, 213010, 'Gävleborg', 287000),
+(320148, 213010, 'Blekinge', 160000),
+(320149, 213010, 'Gotland', 60000),
+(320150, 213010, 'Jämtland', 130000);
 
 
