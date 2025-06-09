@@ -36,14 +36,6 @@ CREATE TABLE city (
   FOREIGN KEY (idState) REFERENCES state(idState)
 );
 
--- FISCAL DATA
-CREATE TABLE fiscalData (
-  idTax VARCHAR(13) PRIMARY KEY,
-  license TEXT,
-  idOrganization INT AUTO_INCREMENT,
-  FOREIGN KEY (idOrganization) REFERENCES organization(idOrganization)
-);
-
 -- ORGANIZATION
 CREATE TABLE organization (
   idOrganization INT PRIMARY KEY AUTO_INCREMENT,
@@ -54,6 +46,14 @@ CREATE TABLE organization (
   website VARCHAR(255),
   language VARCHAR(50),
   operationStatus VARCHAR(50)
+);
+
+-- FISCAL DATA
+CREATE TABLE fiscalData (
+  idTax VARCHAR(13) PRIMARY KEY,
+  license TEXT,
+  idOrganization INT AUTO_INCREMENT,
+  FOREIGN KEY (idOrganization) REFERENCES organization(idOrganization)
 );
 
 -- MEMBER
