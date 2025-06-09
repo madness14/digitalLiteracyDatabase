@@ -38,8 +38,10 @@ CREATE TABLE city (
 
 -- FISCAL DATA
 CREATE TABLE fiscalData (
-  taxId VARCHAR(13) PRIMARY KEY,
-  taxRegime VARCHAR(100)
+  idTax VARCHAR(13) PRIMARY KEY,
+  license TEXT,
+  idOrganization INT AUTO_INCREMENT,
+  FOREIGN KEY (idOrganization) REFERENCES organization(idOrganization)
 );
 
 -- ORGANIZATION
@@ -52,15 +54,6 @@ CREATE TABLE organization (
   website VARCHAR(255),
   language VARCHAR(50),
   operationStatus VARCHAR(50)
-);
-
--- ORG_FISCALDATA
-CREATE TABLE orgFiscalData (
-  idOrganization INT,
-  taxId VARCHAR(13),
-  PRIMARY KEY (idOrganization, taxId),
-  FOREIGN KEY (idOrganization) REFERENCES organization(idOrganization),
-  FOREIGN KEY (taxId) REFERENCES fiscalData(taxId)
 );
 
 -- MEMBER
