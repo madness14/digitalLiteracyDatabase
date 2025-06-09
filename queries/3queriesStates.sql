@@ -538,4 +538,236 @@ INSERT INTO state (idState, idCountry, name, population) VALUES
 (320149, 213010, 'Gotland', 60000),
 (320150, 213010, 'Jämtland', 130000);
 
+-- China (idCountry: 214100)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330001, 214100, 'Guangdong', 126000000),
+(330002, 214100, 'Shandong', 101000000),
+(330003, 214100, 'Henan', 99300000),
+(330004, 214100, 'Sichuan', 83700000),
+(330005, 214100, 'Jiangsu', 84700000),
+(330006, 214100, 'Hebei', 75900000),
+(330007, 214100, 'Hunan', 68900000),
+(330008, 214100, 'Anhui', 63600000),
+(330009, 214100, 'Hubei', 59200000),
+(330010, 214100, 'Zhejiang', 65400000),
+(330011, 214100, 'Guangxi', 49200000),
+(330012, 214100, 'Yunnan', 48300000),
+(330013, 214100, 'Jiangxi', 46500000),
+(330014, 214100, 'Liaoning', 43700000),
+(330015, 214100, 'Fujian', 41500000);
 
+-- India (idCountry: 214200)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330016, 214200, 'Uttar Pradesh', 241000000),
+(330017, 214200, 'Maharashtra', 124000000),
+(330018, 214200, 'Bihar', 124000000),
+(330019, 214200, 'West Bengal', 99600000),
+(330020, 214200, 'Madhya Pradesh', 85300000),
+(330021, 214200, 'Tamil Nadu', 77800000),
+(330022, 214200, 'Rajasthan', 81000000),
+(330023, 214200, 'Karnataka', 67500000),
+(330024, 214200, 'Gujarat', 70400000),
+(330025, 214200, 'Odisha', 46300000),
+(330026, 214200, 'Kerala', 35600000),
+(330027, 214200, 'Jharkhand', 38500000),
+(330028, 214200, 'Assam', 35600000),
+(330029, 214200, 'Ete sech', 30100000),
+(330030, 214200, 'Haryana', 29400000);
+
+-- Japan (idCountry: 214300)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330031, 214300, 'Tokyo', 14000000),
+(330032, 214300, 'Kanagawa', 9200000),
+(330033, 214300, 'Osaka', 8800000),
+(330034, 214300, 'Aichi', 7550000),
+(330035, 214300, 'Saitama', 7350000),
+(330036, 214300, 'Chiba', 6280000),
+(330037, 214300, 'Hyogo', 5500000),
+(330038, 214300, 'Hokkaido', 5250000),
+(330039, 214300, 'Fukuoka', 5130000),
+(330040, 214300, 'Shizuoka', 3650000),
+(330041, 214300, 'Mie', 1780000),
+(330042, 214300, 'Hiroshima', 2800000),
+(330043, 214300, 'Kyoto', 2600000),
+(330044, 214300, 'Niigata', 2230000),
+(330045, 214300, 'Nagano', 2060000);
+
+-- Indonesia (idCountry: 214400)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330046, 214400, 'West Java', 49500000),
+(330047, 214400, 'East Java', 40300000),
+(330048, 214400, 'Central Java', 36500000),
+(330049, 214400, 'North Sumatra', 14700000),
+(330050, 214400, 'Banten', 12300000),
+(330051, 214400, 'Jakarta', 11200000),
+(330052, 214400, 'West Sumatra', 5530000),
+(330053, 214400, 'South Sulawesi', 9040000),
+(330054, 214400, 'Riau', 6800000),
+(330055, 214400, 'Lampung', 8260000),
+(330056, 214400, 'Bali', 4310000),
+(330057, 214400, 'East Kalimantan', 3700000),
+(330058, 214400, 'South Sumatra', 8500000),
+(330059, 214400, 'West Nusa Tenggara', 5300000),
+(330060, 214400, 'Central Sulawesi', 3030000);
+
+-- Pakistan (idCountry: 214500)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330061, 214500, 'Punjab', 110000000),
+(330062, 214500, 'Sindh', 47800000),
+(330063, 214500, 'Khyber Pakhtunkhwa', 35600000),
+(330064, 214500, 'Balochistan', 12300000),
+(330065, 214500, 'Islamabad Capital', 2000000),
+(330066, 214500, 'Gilgit-Baltistan', 1800000),
+(330067, 214500, 'Azad Kashmir', 4100000),
+(330068, 214500, 'Federally Administered Tribal Areas', 5000000),
+(330069, 214500, 'North-West Frontier', 3500000),
+(330070, 214500, 'South Punjab', 4000000),
+(330071, 214500, 'Central Punjab', 4500000),
+(330072, 214500, 'Upper Sindh', 15000000),
+(330073, 214500, 'Lower Sindh', 18000000),
+(330074, 214500, 'Northern Areas', 1800000),
+(330075, 214500, 'Southern Balochistan', 4000000);
+
+-- Bangladesh (idCountry: 214600)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330076, 214600, 'Dhaka', 44000000),
+(330077, 214600, 'Chittagong', 33000000),
+(330078, 214600, 'Rajshahi', 20000000),
+(330079, 214600, 'Khulna', 17000000),
+(330080, 214600, 'Barisal', 9000000),
+(330081, 214600, 'Sylhet', 11000000),
+(330082, 214600, 'Rangpur', 18000000),
+(330083, 214600, 'Mymensingh', 12000000),
+(330084, 214600, 'Comilla', 6000000),
+(330085, 214600, 'Noakhali', 3500000),
+(330086, 214600, 'Faridpur', 2100000),
+(330087, 214600, 'Jessore', 2800000),
+(330088, 214600, 'Pabna', 2700000),
+(330089, 214600, 'Bogra', 3500000),
+(330090, 214600, 'Dinajpur', 3200000);
+
+-- Russia (Asian part) (idCountry: 214700)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330091, 214700, 'Siberian Federal District', 19300000),
+(330092, 214700, 'Far Eastern Federal District', 8100000),
+(330093, 214700, 'Ural Federal District', 12300000),
+(330094, 214700, 'Sakha Republic', 970000),
+(330095, 214700, 'Krasnoyarsk Krai', 2870000),
+(330096, 214700, 'Irkutsk Oblast', 2400000),
+(330097, 214700, 'Novosibirsk Oblast', 2800000),
+(330098, 214700, 'Khabarovsk Krai', 1330000),
+(330099, 214700, 'Primorsky Krai', 1900000),
+(330100, 214700, 'Altai Republic', 220000),
+(330101, 214700, 'Buryatia', 980000),
+(330102, 214700, 'Zabaykalsky Krai', 1070000),
+(330103, 214700, 'Kamchatka Krai', 315000),
+(330104, 214700, 'Magadan Oblast', 144000),
+(330105, 214700, 'Amur Oblast', 798000);
+
+-- Turkey (idCountry: 214800)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330106, 214800, 'Istanbul', 15600000),
+(330107, 214800, 'Ankara', 5600000),
+(330108, 214800, 'Izmir', 4400000),
+(330109, 214800, 'Bursa', 3100000),
+(330110, 214800, 'Antalya', 2500000),
+(330111, 214800, 'Konya', 2200000),
+(330112, 214800, 'Adana', 2200000),
+(330113, 214800, 'Gaziantep', 2000000),
+(330114, 214800, 'Kocaeli', 1900000),
+(330115, 214800, 'Mersin', 1800000),
+(330116, 214800, 'Diyarbakir', 1700000),
+(330117, 214800, 'Kayseri', 1400000),
+(330118, 214800, 'Samsun', 1300000),
+(330119, 214800, 'Denizli', 1050000),
+(330120, 214800, 'Sanliurfa', 2000000);
+
+-- Iran (idCountry: 214900)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330121, 214900, 'Tehran', 13400000),
+(330122, 214900, 'Isfahan', 5120000),
+(330123, 214900, 'Razavi Khorasan', 6400000),
+(330124, 214900, 'Fars', 4850000),
+(330125, 214900, 'Khuzestan', 4800000),
+(330126, 214900, 'East Azerbaijan', 3900000),
+(330127, 214900, 'Mazandaran', 3300000),
+(330128, 214900, 'West Azerbaijan', 3200000),
+(330129, 214900, 'Kerman', 3200000),
+(330130, 214900, 'Gilan', 2530000),
+(330131, 214900, 'Sistan and Baluchestan', 2800000),
+(330132, 214900, 'Alborz', 2700000),
+(330133, 214900, 'Kermanshah', 2000000),
+(330134, 214900, 'Hormozgan', 1800000),
+(330135, 214900, 'Sysasdadsa', 1760000);
+
+-- Thailand (idCountry: 214010)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(330136, 214010, 'Bangkok', 10500000),
+(330137, 214010, 'Bangpuzi', 2600000),
+(330138, 214010, 'Bangtits', 1700000),
+(330139, 214010, 'Bangdik', 1400000),
+(330140, 214010, 'Khon Kaen', 1800000),
+(330141, 214010, 'Udon Thani', 1600000),
+(330142, 214010, 'Surat Thani', 1100000),
+(330143, 214010, 'Nakhon Si Thammarat', 1500000),
+(330144, 214010, 'Phuket', 420000),
+(330145, 214010, 'Pattaya', 320000),
+(330146, 214010, 'Chonburi', 1500000),
+(330147, 214010, 'Ubon Ratchathani', 1800000),
+(330148, 214010, 'Phitsanulok', 860000),
+(330149, 214010, 'Nakhon Sawan', 1100000),
+(330150, 214010, 'Ayutthaya', 820000);
+
+-- Australia (15 states/territories)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(340001, 215100, 'New South Wales', 8188000),
+(340002, 215100, 'Victoria', 6681000),
+(340003, 215100, 'Queensland', 5185000),
+(340004, 215100, 'Western Australia', 2662000),
+(340005, 215100, 'South Australia', 1770000),
+(340006, 215100, 'Tasmania', 541000),
+(340007, 215100, 'Australian Capital Territory', 431000),
+(340008, 215100, 'Northern Territory', 246000),
+(340009, 215100, 'Jervis Bay Territory', 400),
+(340010, 215100, 'Norfolk Island', 1750),
+(340011, 215100, 'Christmas Island', 1400),
+(340012, 215100, 'Cocos (Keeling) Islands', 600),
+(340013, 215100, 'Ashmore and Cartier Islands', 0),
+(340014, 215100, 'Coral Sea Islands', 4),
+(340015, 215100, 'Heard Island and McDonald Islands', 0);
+
+-- New Zealand (15 regions)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(340016, 215200, 'Auckland', 1718000),
+(340017, 215200, 'Canterbury', 655000),
+(340018, 215200, 'Wellington', 546000),
+(340019, 215200, 'Waikato', 496000),
+(340020, 215200, 'Bay of Plenty', 345000),
+(340021, 215200, 'Manawatu-Wanganui', 249000),
+(340022, 215200, 'Otago', 246000),
+(340023, 215200, 'Hawkes Bay', 182000),
+(340024, 215200, 'Northland', 194000),
+(340025, 215200, 'Taranaki', 128000),
+(340026, 215200, 'Southland', 103000),
+(340027, 215200, 'Gisborne', 52100),
+(340028, 215200, 'Marlborough', 51500),
+(340029, 215200, 'Tasman', 54600),
+(340030, 215200, 'West Coast', 32800);
+
+-- Fiji (15 provinces - note: Fiji only has 14 actual provinces, so I've included Rotuma as special dependency)
+INSERT INTO state (idState, idCountry, name, population) VALUES
+(340031, 215300, 'Ba', 247000),
+(340032, 215300, 'Bua', 15000),
+(340033, 215300, 'Cakaudrove', 50000),
+(340034, 215300, 'Kadavu', 11000),
+(340035, 215300, 'Lau', 10000),
+(340036, 215300, 'Lomaiviti', 16000),
+(340037, 215300, 'Macuata', 80000),
+(340038, 215300, 'Nadroga-Navosa', 58000),
+(340039, 215300, 'Naitasiri', 160000),
+(340040, 215300, 'Namosi', 7000),
+(340041, 215300, 'Ra', 30000),
+(340042, 215300, 'Rewa', 105000),
+(340043, 215300, 'Serua', 18000),
+(340044, 215300, 'Tailevu', 55000),
+(340045, 215300, 'Rotuma', 2000);
