@@ -771,3 +771,111 @@ INSERT INTO state (idState, idCountry, name, population) VALUES
 (340043, 215300, 'Serua', 18000),
 (340044, 215300, 'Tailevu', 55000),
 (340045, 215300, 'Rotuma', 2000);
+
+-- Ciudades de España (idCountry: 213100)
+INSERT INTO city (idCity, idState, name, population) VALUES
+(430001, 320001, 'Madrid', 3266000),
+(430002, 320001, 'Alcala de Henares', 196000),
+(430003, 320001, 'Getafe', 185000),
+
+(430004, 320002, 'Barcelona', 1620000),
+(430005, 320002, 'Lleida', 138000),
+(430006, 320002, 'Tarragona', 134000),
+
+(430007, 320003, 'Sevilla', 688000),
+(430008, 320003, 'Malaga', 578000),
+(430009, 320003, 'Granada', 232000),
+
+(430010, 320004, 'Valencia', 789000),
+(430011, 320004, 'Alicante', 337000),
+(430012, 320004, 'Elche', 228000),
+
+(430013, 320005, 'Vigo', 295000),
+(430014, 320005, 'A Coruna', 246000),
+(430015, 320005, 'Ourense', 105000),
+
+(430016, 320006, 'Valladolid', 299000),
+(430017, 320006, 'Burgos', 176000),
+(430018, 320006, 'Leon', 124000),
+
+(430019, 320007, 'Bilbao', 346000),
+(430020, 320007, 'San Sebastian', 188000),
+(430021, 320007, 'Vitoria-Gasteiz', 253000);
+
+-- Ciudades de Alemania (idCountry: 213200)
+INSERT INTO city (idCity, idState, name, population) VALUES
+(430022, 320101, 'Colonia', 1080000),
+(430023, 320101, 'Dusseldorf', 620000),
+(430024, 320101, 'Dortmund', 588000),
+
+(430025, 320102, 'Munich', 1480000),
+(430026, 320102, 'Nuremberg', 518000),
+(430027, 320102, 'Augsburg', 296000),
+
+(430028, 320103, 'Stuttgart', 635000),
+(430029, 320103, 'Mannheim', 310000),
+(430030, 320103, 'Karlsruhe', 308000),
+
+(430031, 320104, 'Hannover', 538000),
+(430032, 320104, 'Braunschweig', 249000),
+(430033, 320104, 'Osnabruck', 165000),
+
+(430034, 320105, 'Frankfurt', 763000),
+(430035, 320105, 'Wiesbaden', 278000),
+(430036, 320105, 'Kassel', 201000);
+
+-- Ciudades de Francia (idCountry: 213300)
+INSERT INTO city (idCity, idState, name, population) VALUES
+(430037, 320201, 'Paris', 2148000),
+(430038, 320201, 'Boulogne-Billancourt', 121000),
+(430039, 320201, 'Saint-Denis', 113000),
+
+(430040, 320202, 'Lyon', 516000),
+(430041, 320202, 'Saint-Etienne', 173000),
+(430042, 320202, 'Grenoble', 158000),
+
+(430043, 320203, 'Bordeaux', 257000),
+(430044, 320203, 'Limoges', 132000),
+(430045, 320203, 'Poitiers', 89000),
+
+(430046, 320204, 'Toulouse', 486000),
+(430047, 320204, 'Montpellier', 285000),
+(430048, 320204, 'Nimes', 148000);
+
+-- Ciudades de Italia (idCountry: 213400)
+INSERT INTO city (idCity, idState, name, population) VALUES
+(430049, 320301, 'Milan', 1378000),
+(430050, 320301, 'Brescia', 200000),
+(430051, 320301, 'Monza', 124000),
+
+(430052, 320302, 'Rome', 2873000),
+(430053, 320302, 'Latina', 126000),
+(430054, 320302, 'Guidonia Montecelio', 89000),
+
+(430055, 320303, 'Naples', 967000),
+(430056, 320303, 'Salerno', 134000),
+(430057, 320303, 'Torre del Greco', 85000),
+
+(430058, 320304, 'Palermo', 676000),
+(430059, 320304, 'Catania', 315000),
+(430060, 320304, 'Messina', 238000);
+
+-- Ciudades de Reino Unido (idCountry: 213500)
+INSERT INTO city (idCity, idState, name, population) VALUES
+(430061, 320401, 'London', 8900000),
+(430062, 320401, 'Birmingham', 1140000),
+(430063, 320401, 'Leeds', 789000),
+
+(430064, 320402, 'Glasgow', 635000),
+(430065, 320402, 'Edinburgh', 488000),
+(430066, 320402, 'Aberdeen', 198000),
+
+(430067, 320403, 'Cardiff', 362000),
+(430068, 320403, 'Swansea', 245000),
+(430069, 320403, 'Newport', 151000),
+
+(430070, 320404, 'Belfast', 341000),
+(430071, 320404, 'Derry', 85000),
+(430072, 320404, 'Lisburn', 46000);
+
+
