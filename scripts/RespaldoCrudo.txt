@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+source "$(dirname "$0")/funciones.sh"
+
+ayuda() {
+    echo "Uso: $(basename "$0") ipNas claveNas"
+    echo "  realiza un respaldo completo de la BD"
+}
+
+test "$1" == "--help" && ayuda && exit 0
+test "$#" -lt 2 && reportarError "faltan parametros"
+
+ipNas="$1"
+usuario="$USER"
+clave="$2"
+nombreBD="litDigital"
+tmpDir="/tmp/respaldos"
+correo="edrura2005@gmail.com"
+
+rm -rf "$tmpDir"
+mkdir -p "$tmpDir"
+
+timestamp=$(date +"%d%m%Y%H%M")
+sqlFile="$tmpDir/$nombreBD+$timestamp.sql"
+
+mysqldump -u"$usuario" -p"@funamuseA69" "$nombreBD" > "$sqlFile" || reportarError "fallo en mysqldump"
+
+comprimir "$sqlFile"
+encriptar "$sqlFile.zip" "$usuario"
+
+montar "$ipNas" "$usuario" "$clave"
+cp "$sqlFile.zip.cpt" /mnt/respaldos/respaldosSemanales/ || reportarError "fallo al copiar al NAS"
+desmontar
+
+enviarNotificacion "$correo" "respaldo completo exitoso" "respaldo $nombreBD+$timestamp.zip.cpt realizado"
+rm -rf "$tmpDir"
+
+exit 0

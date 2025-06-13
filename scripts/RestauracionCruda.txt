@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+source "$(dirname "$0")/funciones.sh"
+
+ayuda() {
+    echo "Uso: $(basename "$0") ipNas claveNas"
+    echo "  restaura la BD completa desde el último respaldo"
+}
+
+test "$1" == "--help" && ayuda && exit 0
+test "$#" -lt 2 && reportarError "faltan parametros"
+
+ipNas="$1"
+usuario="$USER"
+clave="$2"
+tmpDir="/tmp/respaldos"
+nombreBD="litDigital"
+
+rm -rf "$tmpDir"
+mkdir -p "$tmpDir"
+
+montar "$ipNas" "$usuario" "$clave"
+archivoZip=$(ls -t /mnt/respaldos/respaldosSemanales/*.zip.cpt 2>/dev/null | head -n1)
+test -z "$archivoZip" && reportarError "no se encontraron respaldos .zip.cpt"
+
+cp "$archivoZip" "$tmpDir/" || reportarError "fallo al copiar el respaldo"
+desmontar
+
+cd "$tmpDir"
+nombreZip=$(basename "$archivoZip")
+claveLocal="$usuario"
+ccrypt -d -K "$claveLocal" "$nombreZip" || reportarError "fallo al desencriptar"
+
+zipDesencriptado="${nombreZip%.cpt}"
+unzip -o "$zipDesencriptado" || reportarError "fallo al descomprimir"
+
+sqlFile=$(unzip -Z1 "$zipDesencriptado" | grep '\.sql$')
+test -f "$sqlFile" || reportarError "archivo SQL no encontrado"
+
+mysql "$nombreBD" < "$sqlFile" || reportarError "error al restaurar la base de datos"
+rm -rf "$tmpDir"
+
+exit 0
